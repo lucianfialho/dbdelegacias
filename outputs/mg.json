@@ -1,0 +1,1351 @@
+{
+  "uf": "MG",
+  "label": "Minas Gerais",
+  "slug": "minas-gerais",
+  "cities": [
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DEPARTAMENTO DE POLICIA CIVIL - BELO HORIZONTE",
+          "address": "Rua: PRACA RIO BRANCO, 56, CENTRO, BELO HORIZONTE, 30111-050",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE COMBATE A CORRUPCAO E A FRAUDES",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE INVESTIGACAO DE CRIMES DE TRANSITO",
+          "address": "Rua: SERGIPE, 57, BOA VIAGEM, BELO HORIZONTE, 30130-170",
+          "coordinates": {
+            "latitude": "-19.929560858658725",
+            "longitude": "-43.93598127117205"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE INVESTIGACAO DE HOMICIDIOS E PROTECAO A PESSOA",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE INVESTIGACAO ORIENTACAO E PROTECAO A FAMILIA",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DEPARTAMENTO ESTADUAL DE OPERACOES ESPECIAIS",
+          "address": "Rua: BERNARDO GUIMARAES, 1468, FUNCIONARIOS, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA REGIONAL DE POLICIA CIVIL - CENTRO",
+          "address": "Rua: CONSELHEIRO ROCHA, 321, FLORESTA, BELO HORIZONTE, 30150-210",
+          "coordinates": {
+            "latitude": "-19.92063682398887",
+            "longitude": "-43.930371025114624"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA REGIONAL DE POLICIA CIVIL - VENDA NOVA",
+          "address": "Avenida: PORTUGAL, 2170, JARDIM ATLANTICO, BELO HORIZONTE, 31270-705",
+          "coordinates": {
+            "latitude": "-19.85189390163413",
+            "longitude": "-43.95669440822427"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "05 DELEGACIA REGIONAL DE POLICIA CIVIL - SUL",
+          "address": "Rua: PROFESSOR JOSE RENAULT, 485, SAO BENTO, BELO HORIZONTE, 30350-342",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "06 DELEGACIA REGIONAL DE POLICIA CIVIL - NOROESTE",
+          "address": "Avenida: JOAO XXIII, 287, ALIPIO DE MELO, BELO HORIZONTE, 30820-660",
+          "coordinates": {
+            "latitude": "-19.89829651943672",
+            "longitude": "-44.00466164638754"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO I - DEPLAN I",
+          "address": "Rua: POUSO ALEGRE, 417, FLORESTA, BELO HORIZONTE, 31110-010",
+          "coordinates": {
+            "latitude": "-19.911535260493878",
+            "longitude": "-43.937845073380885"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO II - DEPLAN II",
+          "address": "Rua: CONSELHEIRO ROCHA, 321, FLORESTA, BELO HORIZONTE, 30150-210",
+          "coordinates": {
+            "latitude": "-19.92063682398887",
+            "longitude": "-43.930371025114624"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO III - DEPLAN III",
+          "address": "Rua: SINFRONIO BROCHADO, 940, BARREIRO DE BAIXO, BELO HORIZONTE, 30640-000",
+          "coordinates": {
+            "latitude": "-19.977229279403463",
+            "longitude": "-44.02121045178218"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - CENTRO",
+          "address": "Rua: CONSELHEIRO ROCHA, 321, CENTRO, BELO HORIZONTE, 30150-210",
+          "coordinates": {
+            "latitude": "-19.92063682398887",
+            "longitude": "-43.930371025114624"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - CENTRO",
+          "address": "Rua: EDUARDO PORTO, 599, CIDADE JARDIM, BELO HORIZONTE, 30380-060",
+          "coordinates": {
+            "latitude": "-19.937713116740884",
+            "longitude": "-43.95038710710597"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA DE POLICIA CIVIL - CENTRO",
+          "address": "Rua: GUAJAJARAS, 1353, SANTO AGOSTINHO, BELO HORIZONTE, 30180-101",
+          "coordinates": {
+            "latitude": "-19.925553510764",
+            "longitude": "-43.939070540037434"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA DE POLICIA CIVIL - CENTRO",
+          "address": "Rua: OURO PRETO, 1050, SANTO AGOSTINHO, BELO HORIZONTE, 30170-041",
+          "coordinates": {
+            "latitude": "-19.92907209090816",
+            "longitude": "-43.952373948655314"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - LESTE",
+          "address": "Rua: POUSO ALEGRE, 417, FLORESTA, BELO HORIZONTE, 30150-210",
+          "coordinates": {
+            "latitude": "-19.92063682398887",
+            "longitude": "-43.930371025114624"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - LESTE",
+          "address": "Rua: TAQUARI, 87, RENASCENCA, BELO HORIZONTE, 31130-370",
+          "coordinates": {
+            "latitude": "-19.89465733061538",
+            "longitude": "-43.9395461179534"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA DE POLICIA CIVIL - LESTE",
+          "address": "Rua: MANTIQUEIRA, 26, SANTA INES, BELO HORIZONTE, 31080-210",
+          "coordinates": {
+            "latitude": "-19.88877599753575",
+            "longitude": "-43.907092285127575"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA DE POLICIA CIVIL - LESTE",
+          "address": "Rua: NOSSA SENHORA AUXILIADORA, 294, SAO GABRIEL, BELO HORIZONTE, 31980-610",
+          "coordinates": {
+            "latitude": "-19.85509747906288",
+            "longitude": "-43.914144328684785"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - BARREIRO",
+          "address": "Rua: SOLIMOES, 263, JARDINOPOLIS, BELO HORIZONTE, 30510-530",
+          "coordinates": {
+            "latitude": "-19.943794401857502",
+            "longitude": "-43.99965028609584"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - BARREIRO",
+          "address": "Avenida: XIMANGO, 280, FLAVIO MARQUES LISBOA, BELO HORIZONTE, 30624-160",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA DE POLICIA CIVIL - BARREIRO",
+          "address": "Rua: JOSE LAPORTE NETO, 95, ESTORIL, BELO HORIZONTE, 30450-570",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - VENDA NOVA",
+          "address": "Avenida: VILARINHO, 1551, VENDA NOVA, BELO HORIZONTE, 31615-250",
+          "coordinates": {
+            "latitude": "-19.814748485075025",
+            "longitude": "-43.95492961185622"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - VENDA NOVA",
+          "address": "Avenida: PORTUGAL, 735, SANTA AMELIA, BELO HORIZONTE, 31555-000",
+          "coordinates": {
+            "latitude": "-19.847390586337315",
+            "longitude": "-43.98448316839992"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA DE POLICIA CIVIL - VENDA NOVA",
+          "address": "Avenida: JOAQUIM CLEMENTE, 490, FLORAMAR, BELO HORIZONTE, 31840-340",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - SUL",
+          "address": "Rua: CARANGOLA, 27, SANTO ANTONIO, BELO HORIZONTE, 30330-240",
+          "coordinates": {
+            "latitude": "-19.944550526251167",
+            "longitude": "-43.94289961148606"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - SUL",
+          "address": "Avenida: AMAZONAS, 4041, ALTO BARROCA, BELO HORIZONTE, 30431-025",
+          "coordinates": {
+            "latitude": "-19.931140003452477",
+            "longitude": "-43.96831525112158"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA DE POLICIA CIVIL - SUL",
+          "address": "Rua: OUTONO, 259, CARMO, BELO HORIZONTE, 30315-520",
+          "coordinates": {
+            "latitude": "-19.953256625966155",
+            "longitude": "-43.93322691843014"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE POLICIA CIVIL - NOROESTE",
+          "address": "Avenida: JOAO XXIII, 287, ALIPIO DE MELO, BELO HORIZONTE, 30820-660",
+          "coordinates": {
+            "latitude": "-19.89829651943672",
+            "longitude": "-44.00466164638754"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE POLICIA CIVIL - NOROESTE",
+          "address": "Avenida: JOAO XXIII, 287, ALIPIO DE MELO, BELO HORIZONTE, 30820-660",
+          "coordinates": {
+            "latitude": "-19.89829651943672",
+            "longitude": "-44.00466164638754"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA DE POLICIA CIVIL - NOROESTE",
+          "address": "Rua: JORDANIA, 313, OURO PRETO, BELO HORIZONTE, 31310-470",
+          "coordinates": {
+            "latitude": "-19.872657513628106",
+            "longitude": "-43.98647307373187"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA DE POLICIA CIVIL - NOROESTE",
+          "address": "Avenida: DOM PEDRO II, 2180, CAICARA, BELO HORIZONTE, 30710-010",
+          "coordinates": {
+            "latitude": "-19.908632832601093",
+            "longitude": "-43.958312712587656"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": " DIVISAO ESPECIALIZADA OPERACIONAL - DEOESP",
+          "address": "Rua: BERNARDO GUIMARAES, 1468, FUNCIONARIOS, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA DE COMBATE A CORRUPCAO, INVESTIGACAO A FRAUDES E CRIMES CONTRA A ORDEM TRIBUTARIA",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA DE INVESTIGACAO AOS CRIMES CIBERNETICOS E DEFESA DO CONSUMIDOR",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA EM DEFESA DO CONSUMIDOR",
+          "address": "Rua: MARTIM DE CARVALHO, 94, SANTO AGOSTINHO, BELO HORIZONTE, 30190-090",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE CRIME CIBERNETICO",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE CRIME CIBERNETICO",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA EM ATENDIMENTO A MULHER, AO IDOSO E A PESSOA COM DEFICIENCIA E VITIMAS DE INTOLERANCIA - DEMID",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA EM ORIENTACAO E PROTECAO A CRIANCA E AO ADOLESCENTE - DOPCAD",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 7, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE INVESTIGACAO DE ATO INFRACIONAL",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE PROTECAO A CRIANCA E AO ADOLESCENTE",
+          "address": "Avenida: NOSSA SENHORA DE FATIMA, 2175, CARLOS PRATES, BELO HORIZONTE, 30710-182",
+          "coordinates": {
+            "latitude": "-19.917030409967772",
+            "longitude": "-43.95660362979474"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA DE INVESTIGACAO DE ATO INFRACIONAL",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA DE INVESTIGACAO DE ATO INFRACIONAL",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO ESPECIALIZADA DE INVESTIGACAO DE ATO INFRACIONAL - DEPIN/CENTRO INTEGRADO DE ATENDIMENTO AO ADOLESCENTE AUTOR DE ATO INFRACIONAL - CIA",
+          "address": "Avenida: AFONSO PENA, 2300, CENTRO, BELO HORIZONTE, 30170-110",
+          "coordinates": {
+            "latitude": "-19.9218417910175",
+            "longitude": "-43.946242105226666"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "05 DELEGACIA ESPECIALIZADA DE COMBATE AO NARCOTRAFICO",
+          "address": "Avenida: JOSE BONIFACIO, 07, SAO CRISTOVAO, BELO HORIZONTE, 31210-690",
+          "coordinates": {
+            "latitude": "-19.90274773441439",
+            "longitude": "-43.94765726338124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE ATENDIMENTO A MULHER",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA DE ATENDIMENTO A MULHER",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA DE ATENDIMENTO A MULHER",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA ESPECIALIZADA DE ATENDIMENTO A MULHER",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO ESPECIALIZADA EM ATENDIMENTO A MULHER, CRIANCA, ADOLESCENTE E VITIMAS DE INTOLERANCIAS",
+          "address": "Avenida: BIAS FORTES, 1410, BARRO PRETO, BELO HORIZONTE, 30170-014",
+          "coordinates": {
+            "latitude": "-19.92504480701138",
+            "longitude": "-43.943796346535365"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO A PESSOA COM DEFICIENCIA E AO IDOSO",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA DE INVESTIGACAO A VIOLENCIA SEXUAL",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA DE INVESTIGACAO DE CRIMES DE RACISMO, XENOFOBIA, LGBTFOBIA E INTOLERANCIAS CORRELATAS - DECRIN",
+          "address": "Rua: RIO GRANDE DO SUL, 661, BARRO PRETO, BELO HORIZONTE, 30170-114",
+          "coordinates": {
+            "latitude": "-19.92481044270043",
+            "longitude": "-43.94707036769326"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA OPERACIONAL - DEMA",
+          "address": "Rua: BERNARDO GUIMARAES, 1571, LOURDES, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA DE REFERENCIA DA PESSOA DESAPARECIDA",
+          "address": "Avenida: BRASIL, 464, SANTA EFIGENIA, BELO HORIZONTE, 30140-001",
+          "coordinates": {
+            "latitude": "-19.92529802625899",
+            "longitude": "-43.923808103206774"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA EM INVESTIGACAO DE CRIMES CONTRA A VIDA",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "04 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "05 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "06 DELEGACIA ESPECIALIZADA DE HOMICIDIOS - BELO HORIZONTE",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, SAO CRISTOVAO, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO",
+          "address": "Avenida: PRESIDENTE ANTONIO CARLOS, 901, LAGOINHA, BELO HORIZONTE, 31210-010",
+          "coordinates": {
+            "latitude": "-19.90621916809844",
+            "longitude": "-43.94336466745582"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA EM LOCALIZACAO DE CRIANCA E ADOLESCENTE DESAPARECIDOS",
+          "address": "Avenida: BRASIL, 464, SANTA EFIGENIA, BELO HORIZONTE, 30140-001",
+          "coordinates": {
+            "latitude": "-19.92529802625899",
+            "longitude": "-43.923808103206774"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA DE PLANTAO - DEICTRAN",
+          "address": "Avenida: JOAO PINHEIRO, 417, BOA VIAGEM, BELO HORIZONTE, 30130-183",
+          "coordinates": {
+            "latitude": "-19.928039165290524",
+            "longitude": "-43.93685209324077"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA EM PREVENCAO E INVESTIGACAO A FURTO E ROUBO DE VEICULOS AUTOMOTORES",
+          "address": "Rua: UBERABA, 175, BARRO PRETO, BELO HORIZONTE, 30180-080",
+          "coordinates": {
+            "latitude": "-19.927187274355603",
+            "longitude": "-43.95741212537753"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO ESPECIALIZADA EM PREVENCAO E INVESTIGACAO DE CRIMES DE TRANSITO",
+          "address": "Rua: SERGIPE, 57, BOA VIAGEM, BELO HORIZONTE, 30130-170",
+          "coordinates": {
+            "latitude": "-19.929560858658725",
+            "longitude": "-43.93598127117205"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO AUXILIAR",
+          "address": "Rua: NICIAS CONTINENTINO, 1.291, NOVA GAMELEIRA, BELO HORIZONTE, 30510-160",
+          "coordinates": {
+            "latitude": "-19.938401796620735",
+            "longitude": "-43.992520552213584"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO DE LABORATORIO",
+          "address": "Rua: NICIAS CONTINENTINO, 1.291, NOVA GAMELEIRA, BELO HORIZONTE, 30510-160",
+          "coordinates": {
+            "latitude": "-19.938401796620735",
+            "longitude": "-43.992520552213584"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DIVISAO DE PERICIAS MEDICO LEGAIS",
+          "address": "Rua: CECILDES MOREIRA DE FARIA, 150, NOVA GAMELEIRA, BELO HORIZONTE, 30510-250",
+          "coordinates": {
+            "latitude": "-19.940487451894548",
+            "longitude": "-43.993908930502045"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA DE COMBATE A CORRUPCAO",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE FRAUDES",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA DE COMBATE A CORRUPCAO",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE FRAUDES",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE FRAUDES",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE CRIMES CONTRA A ORDEM TRIBUTARIA",
+          "address": "Avenida: FRANCISCO SALES, 780, SANTA EFIGENIA, BELO HORIZONTE, 30150-222",
+          "coordinates": {
+            "latitude": "-19.920819514023336",
+            "longitude": "-43.92871950662719"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA ESPECIALIZADA EM INVESTIGACAO A FURTO E ROUBO DE VEICULOS AUTOMOTORES",
+          "address": "Rua: UBERABA, 175, BARRO PRETO, BELO HORIZONTE, 30180-080",
+          "coordinates": {
+            "latitude": "-19.927187274355603",
+            "longitude": "-43.95741212537753"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA ESPECIALIZADA EM INVESTIGACAO A FURTO E ROUBO DE VEICULOS AUTOMOTORES",
+          "address": "Rua: UBERABA, 175, BARRO PRETO, BELO HORIZONTE, 30180-080",
+          "coordinates": {
+            "latitude": "-19.927187274355603",
+            "longitude": "-43.95741212537753"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA ESPECIALIZADA EM INVESTIGACAO A FURTO E ROUBO DE VEICULOS AUTOMOTORES",
+          "address": "Rua: UBERABA, 175, BARRO PRETO, BELO HORIZONTE, 30180-080",
+          "coordinates": {
+            "latitude": "-19.927187274355603",
+            "longitude": "-43.95741212537753"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA EM INVESTIGACAO DE CRIME CONTRA A FAUNA",
+          "address": "Rua: BERNARDO GUIMARAES, 1571, LOURDES, BELO HORIZONTE, 30140-081",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA EM INVESTIGACAO E REPRESSAO A CRIMES RURAIS",
+          "address": "Avenida: TEREZA CRISTINA, 3826, GAMELEIRA, BELO HORIZONTE, 30535-650",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA EM INVESTIGACAO E REPRESSAO AO FURTO, ROUBO E DESVIO DE CARGA",
+          "address": "Avenida: TEREZA CRISTINA, 3826, GAMELEIRA, BELO HORIZONTE, 30535-650",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "01 DELEGACIA DE REPRESSAO AS ACOES CRIMINOSAS ORGANIZADAS (DRACO)",
+          "address": "Rua: BERNARDO GUIMARAES, 1468, FUNCIONARIOS, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "02 DELEGACIA DE REPRESSAO AS ACOES CRIMINOSAS ORGANIZADAS (DRACO)",
+          "address": "Rua: BERNARDO GUIMARAES, 1468, FUNCIONARIOS, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belo-horizonte",
+      "label": "belo-horizonte",
+      "delegacies": [
+        {
+          "name": "DELEGACIA ESPECIALIZADA ANTISSEQUESTRO",
+          "address": "Rua: BERNARDO GUIMARAES, 1468, FUNCIONARIOS, BELO HORIZONTE, 30140-082",
+          "coordinates": {
+            "latitude": "-19.926860599999998",
+            "longitude": "-43.94970005"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vespasiano",
+      "label": "vespasiano",
+      "delegacies": [
+        {
+          "name": "03 DEPARTAMENTO DE POLICIA CIVIL - VESPASIANO",
+          "address": "Rua: JOSE FONSECA COTA, 323, JARDIM ITAU, VESPASIANO, 33200-554",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "vespasiano",
+      "label": "vespasiano",
+      "delegacies": [
+        {
+          "name": "03 DELEGACIA DE POLICIA CIVIL - VESPASIANO",
+          "address": "Rua: UM, 250, NOVA PAMPULHA, VESPASIANO, 33203-440",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    }
+  ]
+}

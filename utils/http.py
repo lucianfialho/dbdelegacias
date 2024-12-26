@@ -1,8 +1,11 @@
 import requests
 
-def fetch_json(url, params=None):
+def fetch_json(url, params=None, method="GET", headers=None, data=None):
     try:
-        response = requests.get(url, params=params)
+        if method == "POST":
+            response = requests.post(url, data=data, headers=headers)
+        else:
+            response = requests.get(url, params=params, headers=headers)
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
