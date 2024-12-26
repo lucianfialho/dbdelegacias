@@ -1,7 +1,7 @@
 from utils.strings import slugify
 from utils.http import fetch_json
 from utils.get_city_and_coords import get_city_and_coordinates_by_cep  # Importa a função isolada
-from settings import BASE_URLS
+from settings import BASE_URLS, MG_MUNICIPES
 from states.base import BaseState
 
 class MinasGerais(BaseState):
@@ -9,9 +9,8 @@ class MinasGerais(BaseState):
         super().__init__(uf="MG", label="Minas Gerais", slug="minas-gerais")
 
     def fetch_data(self):
-        municipios = self.get_municipios()
 
-        for municipio in municipios:
+        for municipio in MG_MUNICIPES:
             print(f"Fetching data for municipio: {municipio}")
 
             # Fetch JSON e extrair a lista de delegacias

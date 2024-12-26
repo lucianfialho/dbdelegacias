@@ -2,7 +2,8 @@ BASE_URLS  = {
     "RJ": "https://api.policiacivil.rj.gov.br",
     "SP": "https://dipol.policiacivil.sp.gov.br/sup",
     "MG": "https://www.policiacivil.mg.gov.br/delegacia/getDelegaciasAjax",
-    "SC": "https://pc.sc.gov.br"
+    "SC": "https://pc.sc.gov.br",
+    "ES": ["https://pc.es.gov.br/enderecos-e-telefones-das-delegacias-e-distritos-policiais-da-grande-vitoria", "https://pc.es.gov.br/enderecos-e-telefones-das-delegacias-do-interior"]
 }
 
 RJ_CATEGORIES = [

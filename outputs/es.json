@@ -1,0 +1,1947 @@
+{
+  "uf": "ES",
+  "label": "Espírito Santo",
+  "slug": "espirito-santo",
+  "cities": [
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "1ª Delegacia Regional (Vitória)",
+          "address": "Rua Maria de Lurdes Garcia, n° 428, na Ilha de Santa Maria, Vitória/ES (antiga sede da Guarda Civil Municipal de Vitória). CEP - 29.053-310 1dr.vit@pc.es.gov.br",
+          "phone": "(27) 3198-7014 e 3198-7015",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.315255846686192",
+            "longitude": "-40.31591100528018"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "1ª Delegacia Regional (Vitória) - PLANTÃO",
+          "address": "Rua Maria de Lurdes Garcia, n° 428, na Ilha de Santa Maria, Vitória/ES (antiga sede da Guarda Civil Municipal de Vitória). CEP - 29.053-310 1dr.vit@pc.es.gov.br",
+          "phone": "(27) 3198-7014 e 3198-7015",
+          "hours": "24h",
+          "coordinates": {
+            "latitude": "-20.315255846686192",
+            "longitude": "-40.31591100528018"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "1º Distrito Policial",
+          "address": "Av. Santo Antônio, 1.370 Santo Antônio, Vitória/ ES. CEP 29025-120 1dp@pc.es.gov.br",
+          "phone": "(27) 3198-7990",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.318798420434355",
+            "longitude": "-40.35070530000058"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "2º Distrito Policial",
+          "address": "Rua Maria de Lurdes Garcia, n° 428, na Ilha de Santa Maria, Vitória/ES (antiga sede da Guarda Civil Municipal de Vitória). CEP - 29.053-310 2dp@pc.es.gov.br",
+          "phone": "(27) 3198-7008 e 7009",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.315255846686192",
+            "longitude": "-40.31591100528018"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "3º Distrito Policial",
+          "address": "Rua Celso Calmon, 173 – Praia do Canto, Vitória/ ES. CEP 29055-590 3dp@pc.es.gov.br",
+          "phone": "(27) 27 3198-7995",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.2969005",
+            "longitude": "-40.2944958"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "4º Distrito Policial",
+          "address": "Rua Leopoldo Gomes Salles, s/nº – Goiabeiras, Vitória/ ES. CEP 29075-100 4dp@pc.es.gov.br",
+          "phone": "(27) 27 3198-8000",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "vitoria",
+      "label": "vitoria",
+      "delegacies": [
+        {
+          "name": "5º Distrito Policial",
+          "address": "Rua Belmiro Teixeira Pimenta, s/nº Jardim Camburi, Vitória/ ES. CEP 29090-600 5dp@pc.es.gov.br",
+          "phone": "(27) 3198-7190",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "2ª Delegacia Regional (Vila Velha)",
+          "address": "Rua Maria Amália, s/n– Jaburuna Vila Velha/ ES. CEP 29123-000 2dr.vve@pc.es.gov.br",
+          "phone": "(27) 3198-7175",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "2ª Delegacia Regional (Vila Velha) - PLANTÃO",
+          "address": "Rua Maria Amália, s/n– Jaburuna Vila Velha/ ES. CEP 29123-000 2dr.vve@pc.es.gov.br",
+          "phone": "(27) 3198-7182",
+          "hours": "24h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "6º Distrito Policial",
+          "address": "Rua: Luiza Grinalda, nº 663, Centro, Vila Velha/ES. 6dp@pc.es.gov.br",
+          "phone": "(27) 3198-7171",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "vila-velha",
+      "label": "vila-velha",
+      "delegacies": [
+        {
+          "name": "7º Distrito Policial",
+          "address": "Rua Dom Fernando, 08 Santa Inês, Vila Velha/ ES. CEP 29108-240 7dp@pc.es.gov.br",
+          "phone": "(27)3198-804098895-4187",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.349453857099824",
+            "longitude": "-40.311573797963156"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vila-velha",
+      "label": "vila-velha",
+      "delegacies": [
+        {
+          "name": "8º Distrito Policial",
+          "address": "Rua Jorge Majestade, s/nº Novo México, Vila Velha/ ES. CEP 29104-060 8dp@pc.es.gov.br",
+          "phone": "(27) 3198-8005",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.371363021001105",
+            "longitude": "-40.31955082322874"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vila-velha",
+      "label": "vila-velha",
+      "delegacies": [
+        {
+          "name": "9º Distrito Policial",
+          "address": "Praça Vereador Sebastião Cibien, 148 Cobilândia, Vila Velha/ ES. CEP 29111-690 9dp@pc.es.gov.br",
+          "phone": "(27) 3198-8031(27) 3198-8032",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.35514810171764",
+            "longitude": "-40.35660105142537"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "3ª Delegacia Regional (Serra)",
+          "address": "Av. Eldes Scherrer de Souza, s/nº -Parque Residencial Laranjeiras Serra/ ES. CEP 29165-680 3dr.ser@pc.es.gov.br",
+          "phone": "(27) 3198-7160",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.194510193941372",
+            "longitude": "-40.253219042168375"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "3ª Delegacia Regional (Serra) - PLANTÃO",
+          "address": "Av. Eldes Scherrer de Souza, s/nº Parque Residencial Laranjeiras Serra/ ES. CEP 29165-680 3dr.ser@pc.es.gov.br",
+          "phone": "(27) 3198-7164",
+          "hours": "24h",
+          "coordinates": {
+            "latitude": "-20.194510193941372",
+            "longitude": "-40.253219042168375"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "10º Distrito Policial",
+          "address": "Av. Desembargador Mário da Silva Nunes (Av. Norte Sul) nº 100, Bairro Jardim Limoeiro, Serra/ES, CEP.: 29164-044. 10dp@pc.es.gov.br",
+          "phone": "(27) 3198-7151",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.219473856440985",
+            "longitude": "-40.26497180749496"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "11º Distrito Policial",
+          "address": "Av. Abido Saad, 24, Jacaraípe, Serra/ ES. CEP: 29175-344 11dp@pc.es.gov.br",
+          "phone": "(27) 3198-8006",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.121289737909013",
+            "longitude": "-40.178461266770846"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "12º Distrito Policial",
+          "address": "Av. Desembargador Mário da Silva Nunes (Av. Norte Sul) nº 100, Bairro Jardim Limoeiro, Serra/ES, CEP.: 29164-044.",
+          "phone": "(27) 3198-7165",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.219473856440985",
+            "longitude": "-40.26497180749496"
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra",
+      "label": "serra",
+      "delegacies": [
+        {
+          "name": "13º Distrito Policial",
+          "address": "Av. Desembargador Mário da Silva Nunes (Av. Norte Sul) nº 100, Bairro Jardim Limoeiro, Serra/ES, CEP.: 29164-044. 13dp@pc.es.gov.br",
+          "phone": "(27) 27 3198-7151",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.219473856440985",
+            "longitude": "-40.26497180749496"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "4ª Delegacia Regional (Cariacica)Administrativo",
+          "address": "Av. Alfredo Alcure, nº 01, Rio Branco, 29146-220, Cariacica/ES. 4dr.car@pc.es.gov.br",
+          "phone": "(27)3198-7120, 3198-7125e 3198-7126",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "4ª Delegacia Regional (Cariacica) - PLANTÃO",
+          "address": "Av. Alfredo Alcure, nº 01, Rio Branco, 29146-220, Cariacica/ES. 4dr.plantao@pc.es.gov.br",
+          "phone": "(27)3198-7129, 3198-7130e 3198-7131",
+          "hours": "24h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "cariacica",
+      "label": "cariacica",
+      "delegacies": [
+        {
+          "name": "14º Distrito Policial",
+          "address": "Rua Graciano Neves, s/nº Centro, Cariacica/ ES. CEP 29156-050 14dp@pc.es.gov.br",
+          "phone": "(27) 3198-8010",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "cariacica",
+      "label": "cariacica",
+      "delegacies": [
+        {
+          "name": "15 º Distrito Policial",
+          "address": "Rua Vitória, 04 Itacibá, Cariacica/ ES. CEP 29150-450 15dp@pc.es.gov.br",
+          "phone": "(27) 3198-8035",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.32938302645607",
+            "longitude": "-40.383213877037775"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cariacica",
+      "label": "cariacica",
+      "delegacies": [
+        {
+          "name": "16º Distrito Policial",
+          "address": "Av. Mário Gurgel, s/nº (BR 262, km 3,5) Vera Cruz, Cariacica/ ES. CEP 29146-797 (ao lado da Câmara de Vereadores de Cariacica) 16dp@pc.es.gov.br",
+          "phone": "(27)3198-7113",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.340839135583213",
+            "longitude": "-40.39594521269537"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cariacica",
+      "label": "cariacica",
+      "delegacies": [
+        {
+          "name": "17º Distrito Policial",
+          "address": "Av. Mário Gurgel, s/nº (BR 262, km 3,5) Vera Cruz, Cariacica/ ES. CEP 29146-797 (ao lado da Câmara de Vereadores de Cariacica) 17dp@pc.es.gov.br",
+          "phone": "(27) 3198-8041",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.340839135583213",
+            "longitude": "-40.39594521269537"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "18º Distrito Policial",
+          "address": "Rua Desembargador Levino Chacon, 149 Centro, Viana/ ES. 18dp@pc.es.gov.br",
+          "phone": "(27) 3198-8050",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "guarapari",
+      "label": "guarapari",
+      "delegacies": [
+        {
+          "name": "5ª Delegacia Regional (Guarapari)",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-600 5dr.grp@pc.es.gov.br",
+          "phone": "(27) 3198-7140",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.648980000297016",
+            "longitude": "-40.489096199701855"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guarapari",
+      "label": "guarapari",
+      "delegacies": [
+        {
+          "name": "5ª Delegacia Regional (Guarapari) - PLANTÃO",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-600 5dr.grp@pc.es.gov.br",
+          "phone": "(27) 3198-7138",
+          "hours": "24h",
+          "coordinates": {
+            "latitude": "-20.648980000297016",
+            "longitude": "-40.489096199701855"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guarapari",
+      "label": "guarapari",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Narcóticos",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-600",
+          "phone": "(27) 3198-7143",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.648980000297016",
+            "longitude": "-40.489096199701855"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Investigações Criminais",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-601",
+          "phone": "(27) 3198-7145",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Proteção à Criança, Adolescente e Idoso",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-602",
+          "phone": "(27) 3198-7139",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Infrações Penais e Outras",
+          "address": "Rua Josias Cerutti, 683 Praia do Morro, Guarapari/ ES. CEP 29216-603",
+          "phone": "(27)3198-7141 e 27 3198-7142",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "alegre",
+      "label": "alegre",
+      "delegacies": [
+        {
+          "name": "6ª Delegacia Regional (Alegre)",
+          "address": "Praça Henrique Wanderley, 559, Centro, Alegre, 29500-000",
+          "phone": "(28)3526-1710",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "apiaca",
+      "label": "apiaca",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Apiacá",
+          "address": "Rua Augusto Cesário, 52, Centro, Apiacá, 29450-000",
+          "phone": "(28)3526-1721",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-21.152272",
+            "longitude": "-41.569297"
+          }
+        }
+      ]
+    },
+    {
+      "name": "bom-jesus-do-norte",
+      "label": "bom-jesus-do-norte",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Bom Jesus do Norte",
+          "address": "Rua Pedro Casimiro Campos, 85, Bairro São Sebastião, Bom Jesus do Norte, 29460-000",
+          "phone": "(28) 3526-1726",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "divino-de-sao-lourenco",
+      "label": "divino-de-sao-lourenco",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Divino São Lourenço",
+          "address": "Rua Genuíno Lopes, s/nº, Centro, Divino São Lourenço, 29590-000",
+          "phone": "(28) 3551-1211",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.6224575",
+            "longitude": "-41.6853124"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dores-do-rio-preto",
+      "label": "dores-do-rio-preto",
+      "delegacies": [
+        {
+          "name": "Delegacia de Políciade Dores do Rio Preto",
+          "address": "Rua Pedro Alcântara Gouveia, s/nº, Centro, Dores do Rio Preto, 29580-000",
+          "phone": "(28) 3559-1151",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.6907113",
+            "longitude": "-41.846385"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guacui",
+      "label": "guacui",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Guaçuí",
+          "address": "Avenida José Alexandre, 15, Centro, Guaçuí, 29560-000",
+          "phone": "(28) 3526-1790",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "jeronimo-monteiro",
+      "label": "jeronimo-monteiro",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Jerônimo Monteiro",
+          "address": "Ladeira da Igualdade,  s/nº, Centro, Jerônimo Monteiro. 29550-000",
+          "phone": "(28)3526-2822",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.7881687",
+            "longitude": "-41.3920954"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de São José dos Calçado",
+          "address": "Rua Dr. José Fernando Medina, 399, Centro, São José do Calçado",
+          "phone": "(28) 3526-1784",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "cachoeiro-de-itapemirim",
+      "label": "cachoeiro-de-itapemirim",
+      "delegacies": [
+        {
+          "name": "7ª Delegacia Regional (Cachoeiro de Itapemirim)",
+          "address": "Rua Carlos Marão, 102, bairro BNH, Cachoeiro Itapemirim, 29313-764",
+          "phone": "(28)3526-1744",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.83449340382444",
+            "longitude": "-41.15633328068382"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Atílio Vivácqua",
+          "address": "Rua José Ferreira Ramos, S/N, Centro, Atilio Viváqua, 29490000",
+          "phone": "(28)3526-1723",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Castelo",
+          "address": "Rua Soares, 16, Bairro independência, Castelo, 29360000",
+          "phone": "(28) 3526-1765",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "mimoso-do-sul",
+      "label": "mimoso-do-sul",
+      "delegacies": [
+        {
+          "name": "Delegacia  de Polícia de Mimoso do Sul",
+          "address": "Rua Colina Arariboia, S/N, Centro, Mimoso do Sul, 29400-000",
+          "phone": "(28) 3526-2828",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-21.075112349999998",
+            "longitude": "-41.35051363039584"
+          }
+        }
+      ]
+    },
+    {
+      "name": "muqui",
+      "label": "muqui",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Muqui",
+          "address": "Rua Jerônimo Monteiro, 59,Centro, 29480-000",
+          "phone": "(28)3526-2835",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.9509368",
+            "longitude": "-41.3444285"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vargem-alta",
+      "label": "vargem-alta",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Vargem Alta",
+          "address": "Rua Frederico Fontana Filho, 48,Centro, Vargem Alta, 29295-000",
+          "phone": "(28) 3526-1788",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "itapemirim",
+      "label": "itapemirim",
+      "delegacies": [
+        {
+          "name": "9ª Delegacia Regional (Itapemirim)",
+          "address": "Rua Coronel Marcondes de Souza, 107, Centro, Itapemirim, 29330-000",
+          "phone": "(28)3526-2814",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "marataizes",
+      "label": "marataizes",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Marataízes",
+          "address": "Avenida Rubens Rangel, 22, Bairro Cidade Nova, Marataízes, 29345-000",
+          "phone": "(28) 3532-6322",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-21.0443673",
+            "longitude": "-40.8272204"
+          }
+        }
+      ]
+    },
+    {
+      "name": "presidente-kennedy",
+      "label": "presidente-kennedy",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Presidente Kennedy",
+          "address": "Rua Átila Vivacqua, 872, Centro, 29350-000",
+          "phone": "(28) 3526-2838",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-21.0998837",
+            "longitude": "-41.045038"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-novo-do-sul",
+      "label": "rio-novo-do-sul",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Rio Novo do Sul",
+          "address": "Rua Marcos Tadeu Coelho Silva, 6, Centro, 29290-000",
+          "phone": "(28) 3526-1779",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.8641487",
+            "longitude": "-40.9384378"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "10º Delegacia Regional (Anchieta)",
+          "address": "Rua Coronel Vitorino, 28, Centro, Anchieta",
+          "phone": "(28)3526-1717 e(28) 3526-1718",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "alfredo-chaves",
+      "label": "alfredo-chaves",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Alfredo Chaves",
+          "address": "Rua Cais Costa Pinto, 26, Centro – Alfredo Chaves, 29240-000",
+          "phone": "(27) 3198-7912",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.6356507",
+            "longitude": "-40.7484424"
+          }
+        }
+      ]
+    },
+    {
+      "name": "iconha",
+      "label": "iconha",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Iconha",
+          "address": "Rua Deolindo Paganini, 209, Ed Garcia, Bairro Jardim Jandyra, Iconha, 29280-000",
+          "phone": "(28) 3526-2807",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.7935003",
+            "longitude": "-40.8108852"
+          }
+        }
+      ]
+    },
+    {
+      "name": "piuma",
+      "label": "piuma",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Piúma",
+          "address": "Rodovia Jorge Peres, Km 05, Bairro Niterói, 01, Piúma, 29285-000",
+          "phone": "(28) 3526-1774",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.8375312",
+            "longitude": "-40.7271589"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Gabinete SPRSR",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28) 3526-2901",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Narcóticos (Denarc)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28)3526-2905",
+          "hours": "*h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Homicídios e Proteção à Pessoa (DHPP),",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28)3526-2905",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Atendimento à Mulher (Deam)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28) 3526-2606",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Investigações Criminais (Deic)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28) 3526-2904",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Delegacia Especializada de Infrações Penais Outras (Dipo)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28) 3526-2902",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "Plantão 11ª Delegacia Regional (Venda Nova do Imigrante)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28) 3526-2900",
+          "hours": "24h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "venda-nova-do-imigrante",
+      "label": "venda-nova-do-imigrante",
+      "delegacies": [
+        {
+          "name": "11ª Delegacia Regional (Venda Nova do Imigrante)",
+          "address": "Rua 29 de Junho, 1.945,Bananeiras, Venda Nova do Imigrante, 29375-000",
+          "phone": "(28)3526-2903",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.3714782",
+            "longitude": "-41.1298929729017"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ibitirama",
+      "label": "ibitirama",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Ibitirama",
+          "address": "Avenida Acidalia Vieira Knust, 08, Centro-Ibitirama, 29540-000",
+          "phone": "(28) 3526-2804",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "irupi",
+      "label": "irupi",
+      "delegacies": [
+        {
+          "name": "Delegaciade PolíciaIrupi",
+          "address": "Rua Jalmas Gomes de Freitas, 468, Centru Irupi, 29398-000",
+          "phone": "(28) 3548-1747",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "iuna",
+      "label": "iuna",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Iúna",
+          "address": "Rua Espirito Santo, 161, Bairro Quilombo, Iúna, 29390-000",
+          "phone": "(28) 3526-2820",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "muniz-freire",
+      "label": "muniz-freire",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Muniz Freire",
+          "address": "Rua Manoel Alonso Portela, 55, Centro, 29380-000",
+          "phone": "(28) 3526-2831",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ibatiba",
+      "label": "ibatiba",
+      "delegacies": [
+        {
+          "name": "8ª Delegacia Regional (Ibatiba)",
+          "address": "Av. Servolo Rodrigues Trindade, 549 – Bairro Boa Esperança, Ibatiba, 29395-000",
+          "phone": "(28) 3526-1799",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "afonso-claudio",
+      "label": "afonso-claudio",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Afonso Cláudio",
+          "address": "Rua Maria Pádua Soares, S/N, Centro, Afonso Claudio,29600-000",
+          "phone": "(27) 3198-8272",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.0763538",
+            "longitude": "-41.141767389545905"
+          }
+        }
+      ]
+    },
+    {
+      "name": "laranja-da-terra",
+      "label": "laranja-da-terra",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia  de Laranja da Terra",
+          "address": "Anexo ao Terminal Rodoviário de Laranja da Terra,Estr. São Luís de Miranda, 628-878 - Laranja da Terra, ES, 29615-000",
+          "phone": "(27) 3198-8270",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.9127078",
+            "longitude": "-41.083878906643214"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Conceição do Castelo",
+          "address": "Avenida Governador Francisco Lacerda de Aguiar, 86, Centro, Conceição do Castelo, 29370000",
+          "phone": "(28) 3526-1766",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Domingos Martins",
+          "address": "Avenida Senador Jefferson de Aguiar, 140, Centro, Domingos Martins, 29160000",
+          "phone": "(27)3198-8250",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Brejetuba",
+          "address": "Rua José Olindo Badaró, 76, Centro ,Brejetuba, 29630000",
+          "phone": "(27) 3526-1730",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "marechal-floriano",
+      "label": "marechal-floriano",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Marechal Floriano",
+          "address": "Avenida Arthur Hasse, SN, Alto Marechal, 29255-000",
+          "phone": "(27) 3198-8253",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-teresa",
+      "label": "santa-teresa",
+      "delegacies": [
+        {
+          "name": "12ª Delegacia Regional (Santa Teresa)",
+          "address": "Avenida Barão Orlando Bonfim, 1044, bairro Vila Nova, Santa Teresa/ES. CEP 29.650-000",
+          "phone": "(27) 3198-8200",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.90007585",
+            "longitude": "-40.5802662213088"
+          }
+        }
+      ]
+    },
+    {
+      "name": "itaguacu",
+      "label": "itaguacu",
+      "delegacies": [
+        {
+          "name": "Delegaciade Polícia deItaguaçu",
+          "address": "Rua João Barbosa de Menezes, 137, Centro,Itaguaçu, 29690-000",
+          "phone": "(27) 3198-8150",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.795817800000002",
+            "longitude": "-40.88559882773663"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Polícia  deItarana",
+          "address": "ATENDIDA PELA DP DE ITAGUAÇU",
+          "phone": "(27) 3725-1596",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "santa-leopoldina",
+      "label": "santa-leopoldina",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Santa Leopoldina",
+          "address": "Rua Porfírio Furtado, 47, Centro, Santa Leopoldina-ESCEP: 29.640-000",
+          "phone": "(27) 3198-8205",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-maria-de-jetiba",
+      "label": "santa-maria-de-jetiba",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Santa Maria de Jetibá",
+          "address": "Ladeira Manoel Candeia, 84, Centro, 29645-000",
+          "phone": "(27) 3198-8245",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-20.0604908",
+            "longitude": "-40.72964865542895"
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-teresa",
+      "label": "santa-teresa",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de São Roque Canaã",
+          "address": "Atendimento é realizado pela12ª Delegacia Regional (Santa Teresa) Avenida Barão Orlando Bonfim, 1044, bairro Vila Nova, Santa Teresa/ES. CEP 29.650-000",
+          "phone": "(27) 3259 2971(27) 3259 3016.",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.90007585",
+            "longitude": "-40.5802662213088"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "13ª Delegacia Regional (Aracruz)",
+          "address": "Av. Venâncio Flores, 1.333,Centro, Aracruz,29190-000.",
+          "phone": "(27)3256-8186",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "fundao",
+      "label": "fundao",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Fundão",
+          "address": "Rua Everaldino Silva, 110 –  Centro, Fundão,29185-000",
+          "phone": "(27)3267-1344",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.9332174",
+            "longitude": "-40.4049674"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Núcleo Policial de Praia Grande",
+          "address": "Avenida Linhares, 1199, Distrito de Praia Grande- Fundão",
+          "phone": "(27)3287-0523",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Ibiraçu",
+          "address": "Rua Selmira Guasti Gratzi, SN, Centro-Ibiraçu, em frente à Praça Aristides Armíneo Guaraná, 29670000",
+          "phone": "(27) 3257-1379",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade João Neiva",
+          "address": "Rua Orestes Negri, S/N, Centro, João Neiva",
+          "phone": "(27)3258-3088",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "linhares",
+      "label": "linhares",
+      "delegacies": [
+        {
+          "name": "16ª Delegacia Regional (Linhares)",
+          "address": "Rua Elio José de Almeida, 17, Quadra C3,Bairro 3 Barras, Linhares Rua José Candido Durão, 17,18,19, Quadra C3, Bairro Três Barras-Linhares, 29907-050",
+          "phone": "(27) 3198-8156  e(27) 3198-8170",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.374127764197627",
+            "longitude": "-40.06866956713379"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-bananal",
+      "label": "rio-bananal",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Rio Bananal",
+          "address": "Rua 14 de Setembro, 1452, Santo Antônio, 29920-000",
+          "phone": "(27)  3198-8198",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.2614413",
+            "longitude": "-40.3353272"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sooretama",
+      "label": "sooretama",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Sooretama",
+          "address": "Av. Cristo Rei, 33, próxima BR, Centro, 29927-000",
+          "phone": "(27) 27 3198-8234",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.1918129",
+            "longitude": "-40.1037067"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sooretama",
+      "label": "sooretama",
+      "delegacies": [
+        {
+          "name": "Deam Sooretama",
+          "address": " Av. Cristo Rei, 33, próxima BR, Centro, 29927-000",
+          "phone": "(27) 3198-8236",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.1918129",
+            "longitude": "-40.1037067"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "18ª Delegacia Regional (São Mateus)",
+          "address": "Rua Dr. Arlindo Sodré, 162, Ed Santa Rita,Centro, São Mateus",
+          "phone": "(27)3767 8135Plantão: (27)3767-8143",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Conceição da Barra",
+          "address": "Endereço: Travessa Pinheiros, S/N, Centro – Conceição da Barra, 29960000",
+          "phone": "(27) 3762-1261",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "jaguare",
+      "label": "jaguare",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade  Jaguaré",
+          "address": "Rua Ciro Rodrigues, 229, Centro-Jaguaré, 29950-000",
+          "phone": "(27)3198-8153",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.9058375",
+            "longitude": "-40.0710964"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pedro-canario",
+      "label": "pedro-canario",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Pedro Canário",
+          "address": "Rua Doutor Washington Luiz da Silva, Bairro Novo Horizonte, 29970-000",
+          "phone": "(27) 3198-8190",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.1994114",
+            "longitude": "-39.999498367464156"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "14ª Delegacia Regional (Barra de São Francisco)",
+          "address": "Rua Henrique Fanto, S/N,Bairro Vaquejada, Barra de São Francisco.",
+          "phone": "(27) 3198-8120",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Água Doce do Norte",
+          "address": "ATENDIDA PELA DP DE ECOPORANGA",
+          "phone": "(27) 3255- 1202",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "aguia-branca",
+      "label": "aguia-branca",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Águia Branca",
+          "address": "Rua Dr. Valery Koszarowski, 10 –  Bairro Praça dos Três Poderes, Águia Branca, 29795-000",
+          "phone": "(27) 3198-8100",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.9847265",
+            "longitude": "-40.7391844"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ecoporanga",
+      "label": "ecoporanga",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Ecoporanga",
+          "address": "Rua José da Cruz, Centro, Ecoporanga, 29850-000",
+          "phone": "(27) 3198-8149",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.3720918",
+            "longitude": "-40.8321351"
+          }
+        }
+      ]
+    },
+    {
+      "name": "mantenopolis",
+      "label": "mantenopolis",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Mantenópolis",
+          "address": "Rua Vereador José P . Tiago, Centro, Mantenóplis,29770-000",
+          "phone": "(27) 3198-8175",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.8626177",
+            "longitude": "-41.1224012"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "15ª Delegacia Regional (Colatina)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8136 e(27) 3198-8141",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Plantão (térreo)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8129(27) 3198-8130",
+          "hours": "24h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DEAM",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27)  3198-8133",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DPCAI",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8134",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "SAA/ADMINISTRATIVO (2º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8136 e(27) 3198-8141",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DIPO (2º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8137",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DHPP (3º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8139",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DENARC (3º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3198-8140",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DEIC (3º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "(27) 3723-6782",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "DP de Governador Lindenberg (1º andar)",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina ",
+          "phone": "(27) 3198-8136 e(27) 3198-8141",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Alto Rio Novo",
+          "address": "ATENDIDA PELA DP DE MANTENÓPOLIS",
+          "phone": "(27) 3198-8103",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Baixo Guandu",
+          "address": "Rua Eraldo Nunes Ferreira, S/N, São Pedro, Em Frente à Madeireira do Pará, 29730000",
+          "phone": "(27) 3198-8116",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Governador Lindemberg",
+          "address": "Avenida das Nações, nº 852, bairro Colatina Velha, Colatina",
+          "phone": "",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "marilandia",
+      "label": "marilandia",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Marilândia",
+          "address": "Rua São Tarcísio, 210, Centro Marilândia, 29725-000",
+          "phone": "(27) 3198-8242",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.4117824",
+            "longitude": "-40.5442916"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pancas",
+      "label": "pancas",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Pancas",
+          "address": "Rua Diamante, 392,Centro, 29750-000",
+          "phone": "(27) 3198-8186",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.2305883",
+            "longitude": "-40.842810496093584"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-gabriel-da-palha",
+      "label": "sao-gabriel-da-palha",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de São Domingos do Norte",
+          "address": "Rua Argel Resende,110, Centro, São Gabriel da Palha, 29780-000",
+          "phone": "(27) 3198-8210",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.0148349",
+            "longitude": "-40.539464"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "nova-venecia",
+      "label": "nova-venecia",
+      "delegacies": [
+        {
+          "name": "17ª Delegacia Regional (Nova Venécia)",
+          "address": "Av. Vitória, 17 – Centro,Nova Venécia,29830-000.",
+          "phone": "(27) 3198-8180",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.7082544",
+            "longitude": "-40.4000087"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Boa Esperança",
+          "address": "Rua Dr. Pedro Herkenhoff, 327, Centro – Boa Esperança, 29845000",
+          "phone": "(27) 3198-8124",
+          "hours": "8h às 18h",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "montanha",
+      "label": "montanha",
+      "delegacies": [
+        {
+          "name": "Delegaciade Políciade Montanha",
+          "address": "Rua Anchieta, 651, Centro- Montanha, 29890-000",
+          "phone": "(27)3198-8178",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.102955299999998",
+            "longitude": "-40.35990819482253"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pinheiros",
+      "label": "pinheiros",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de Pinheiros",
+          "address": "Rua Carlos Castro, 37, bairro Canário, 29980-000",
+          "phone": "(27) 3198-8193",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-18.3859391",
+            "longitude": "-40.13279144044381"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-gabriel-da-palha",
+      "label": "sao-gabriel-da-palha",
+      "delegacies": [
+        {
+          "name": "Delegacia de Polícia de São Gabriel da Palha",
+          "address": "Rua Argel Resende, 110, Centro,  São Gabriel da Palha, 29780-000",
+          "phone": "(27) 3198-8215",
+          "hours": "8h às 18h",
+          "coordinates": {
+            "latitude": "-19.0148349",
+            "longitude": "-40.539464"
+          }
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "desconhecido",
+      "label": "desconhecido",
+      "delegacies": [
+        {
+          "name": "",
+          "address": "",
+          "phone": "",
+          "hours": "",
+          "coordinates": null
+        }
+      ]
+    }
+  ]
+}
