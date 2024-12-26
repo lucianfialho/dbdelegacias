@@ -1,0 +1,5522 @@
+{
+  "uf": "SC",
+  "label": "Santa Catarina",
+  "slug": "santa-catarina",
+  "cities": [
+    {
+      "name": "abdon-batista",
+      "label": "abdon-batista",
+      "delegacies": [
+        {
+          "name": "Abdon Batista – Delegacia de Polícia do Município",
+          "address": "Abdon Batista – SC – CEP: 89636-000",
+          "phones": [
+            "(49) 3541-3392"
+          ],
+          "email": "dpabdonbatista@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "abelardo-luz",
+      "label": "abelardo-luz",
+      "delegacies": [
+        {
+          "name": "Abelardo Luz – Delegacia de Polícia da Comarca",
+          "address": "Abelardo Luz – SC – CEP: 89830-000",
+          "phones": [
+            "(49) 3445-4142 ",
+            " 3445-4568"
+          ],
+          "email": "dpabelardoluz@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.5705893",
+            "longitude": "-52.3280339"
+          }
+        }
+      ]
+    },
+    {
+      "name": "agrolandia",
+      "label": "agrolandia",
+      "delegacies": [
+        {
+          "name": "Agrolândia – Delegacia de Polícia do Município",
+          "address": "Agrolândia – SC – CEP: 88420-000",
+          "phones": [
+            "(47) 3534-4200"
+          ],
+          "email": "dpagrolandia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "agronomica",
+      "label": "agronomica",
+      "delegacies": [
+        {
+          "name": "Agronômica – Delegacia de Polícia do Município",
+          "address": "Agronômica – SC – CEP: 89188-000",
+          "phones": [
+            "(47) 3542-0103"
+          ],
+          "email": "dpagronomica@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "agua-doce",
+      "label": "agua-doce",
+      "delegacies": [
+        {
+          "name": "Água Doce – Delegacia de Polícia do Município",
+          "address": "Água Doce – SC – CEP: 89659-000",
+          "phones": [
+            "(49) 3524-0298"
+          ],
+          "email": "dpaguadoce@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "aguas-de-chapeco",
+      "label": "aguas-de-chapeco",
+      "delegacies": [
+        {
+          "name": "Águas de Chapecó – Delegacia de Polícia do Município",
+          "address": "Águas de Chapecó – SC – CEP: 89883-000",
+          "phones": [
+            "(49) 3339-0206"
+          ],
+          "email": "dpaguasdechapeco@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0741119",
+            "longitude": "-52.9879048"
+          }
+        }
+      ]
+    },
+    {
+      "name": "aguas-frias",
+      "label": "aguas-frias",
+      "delegacies": [
+        {
+          "name": "Águas Frias – Delegacia de Polícia do Município",
+          "address": "Águas Frias – SC – CEP: 89843-000",
+          "phones": [
+            "(49) 3664-6613"
+          ],
+          "email": "dpaguasfrias@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8817187",
+            "longitude": "-52.8599756"
+          }
+        }
+      ]
+    },
+    {
+      "name": "aguas-mornas",
+      "label": "aguas-mornas",
+      "delegacies": [
+        {
+          "name": "Águas Mornas – Delegacia de Polícia do Município",
+          "address": "Águas Mornas – SC – CEP: 88150-000",
+          "phones": [
+            "(48) 3665-5837"
+          ],
+          "email": "dpaguasmornas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.696316",
+            "longitude": "-48.8247831"
+          }
+        }
+      ]
+    },
+    {
+      "name": "alfredo-wagner",
+      "label": "alfredo-wagner",
+      "delegacies": [
+        {
+          "name": "Alfredo Wagner – Delegacia de Polícia do Município",
+          "address": "Alfredo Wagner – SC – CEP: 88540-000",
+          "phones": [
+            "(48) 3665-5852"
+          ],
+          "email": "dpalfredowagner@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4832304",
+            "longitude": "-50.1195204"
+          }
+        }
+      ]
+    },
+    {
+      "name": "alto-bela-vista",
+      "label": "alto-bela-vista",
+      "delegacies": [
+        {
+          "name": "Alto Bela Vista – Delegacia de Polícia do Município",
+          "address": "Alto Bela Vista – SC – CEP: 89730-000",
+          "phones": [
+            "(49) 3482-6109"
+          ],
+          "email": "dpaltobelavista@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "anchieta",
+      "label": "anchieta",
+      "delegacies": [
+        {
+          "name": "Anchieta – Delegacia de Polícia da Comarca",
+          "address": "Anchieta – SC – CEP: 89970-000",
+          "phones": [
+            "(49) 3653-0021 ",
+            " 3653-0958"
+          ],
+          "email": "dpanchieta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.5350527",
+            "longitude": "-53.3293938"
+          }
+        }
+      ]
+    },
+    {
+      "name": "angelina",
+      "label": "angelina",
+      "delegacies": [
+        {
+          "name": "Angelina – Delegacia de Polícia do Município",
+          "address": "Angelina – SC – CEP: 88460-000",
+          "phones": [
+            "(48) 3665-5860"
+          ],
+          "email": "dpangelina@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.5805287",
+            "longitude": "-48.9838759"
+          }
+        }
+      ]
+    },
+    {
+      "name": "anita-garibaldi",
+      "label": "anita-garibaldi",
+      "delegacies": [
+        {
+          "name": "Anita Garibaldi – Delegacia de Polícia da Comarca",
+          "address": "Anita Garibaldi – SC – CEP: 88590-000",
+          "phones": [
+            "(49) 3289-8289"
+          ],
+          "email": "dpanitagaribaldi@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "anitapolis",
+      "label": "anitapolis",
+      "delegacies": [
+        {
+          "name": "Anitápolis – Delegacia de Polícia do Município",
+          "address": "Anitápolis – SC – CEP: 88475-000",
+          "phones": [
+            "(48) 3665-5861"
+          ],
+          "email": "dpanitapolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "antonio-carlos",
+      "label": "antonio-carlos",
+      "delegacies": [
+        {
+          "name": "Antônio Carlos – Delegacia de Polícia do Município",
+          "address": "Antônio Carlos – SC – CEP: 88180-000",
+          "phones": [
+            "(48) 3665-4408"
+          ],
+          "email": "dpantoniocarlos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "apiuna",
+      "label": "apiuna",
+      "delegacies": [
+        {
+          "name": "Apiúna – Delegacia de Polícia do Município",
+          "address": "Apiúna – SC – CEP: 89135-000",
+          "phones": [
+            "(47) 3353-1190"
+          ],
+          "email": "dpapiuna@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0374658",
+            "longitude": "-49.3885037"
+          }
+        }
+      ]
+    },
+    {
+      "name": "arabuta",
+      "label": "arabuta",
+      "delegacies": [
+        {
+          "name": "Arabutã – Delegacia de Polícia do Município",
+          "address": "Arabutã – SC – CEP: 89740-000",
+          "phones": [
+            "(49) 3448-0123"
+          ],
+          "email": "dparabuta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "araquari",
+      "label": "araquari",
+      "delegacies": [
+        {
+          "name": "Araquari – Delegacia de Polícia da Comarca",
+          "address": "Araquari – SC – CEP: 89245-000",
+          "phones": [
+            "(47) 3447-1186"
+          ],
+          "email": "dparaquari@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ararangua",
+      "label": "ararangua",
+      "delegacies": [
+        {
+          "name": "19ª – DELEGACIA REGIONAL DE POLÍCIA – ARARANGUÁ",
+          "address": "Araranguá – SC – CEP: 88900-000",
+          "phones": [
+            "(48) 3529-0242",
+            "(48) 3529-0194",
+            "(48) 3529 0144",
+            "(48) 3529 0144"
+          ],
+          "email": "dicararangua@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "armazem",
+      "label": "armazem",
+      "delegacies": [
+        {
+          "name": "Armazém – Delegacia de Polícia da Comarca",
+          "address": "Armazém – SC – CEP: 88740-000",
+          "phones": [
+            "(48) 3651-1887"
+          ],
+          "email": "dparmazem@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "arroio-trinta",
+      "label": "arroio-trinta",
+      "delegacies": [
+        {
+          "name": "Arroio Trinta – Delegacia de Polícia do Município",
+          "address": "Arroio Trinta – SC – CEP: 89590-000",
+          "phones": [
+            "(49) 3533-5451"
+          ],
+          "email": "dparroiotrinta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "arvoredo",
+      "label": "arvoredo",
+      "delegacies": [
+        {
+          "name": "Arvoredo – Delegacia de Polícia do Município",
+          "address": "Arvoredo – SC – CEP: 89778-000",
+          "phones": [
+            "(49) 3452-8699"
+          ],
+          "email": "dparvoredo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ascurra",
+      "label": "ascurra",
+      "delegacies": [
+        {
+          "name": "Ascurra – Delegacia de Polícia da Comarca",
+          "address": "Ascurra – SC – CEP: 89139-000",
+          "phones": [
+            "(47)  3399-3121"
+          ],
+          "email": "dpascurra@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "atalanta",
+      "label": "atalanta",
+      "delegacies": [
+        {
+          "name": "Atalanta – Delegacia de Polícia do Município",
+          "address": "Atalanta – SC – CEP: 88410-000",
+          "phones": [
+            "(47) 3533-8802"
+          ],
+          "email": "dpatalanta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "aurora",
+      "label": "aurora",
+      "delegacies": [
+        {
+          "name": "Aurora – Delegacia de Polícia do Município",
+          "address": "Aurora – SC – CEP: 89186-000",
+          "phones": [
+            "(47) 3533-8801"
+          ],
+          "email": "dpaurora@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.3166417",
+            "longitude": "-49.6368502"
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-arroio-do-silva",
+      "label": "balneario-arroio-do-silva",
+      "delegacies": [
+        {
+          "name": "Balneário Arroio do Silva – Delegacia de Polícia do Município",
+          "address": "Balneário Arroio do Silva – SC – CEP: 88914-000",
+          "phones": [
+            "(48) 3529-0196"
+          ],
+          "email": "dparroiodosilva@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.9815269",
+            "longitude": "-49.4189932"
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-barra-do-sul",
+      "label": "balneario-barra-do-sul",
+      "delegacies": [
+        {
+          "name": "Barra do Sul – Delegacia de Polícia do Município",
+          "address": "Barra do Sul – SC – CEP: 89247-000",
+          "phones": [
+            "(47) 3448-1188"
+          ],
+          "email": "dpbarradosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.459842",
+            "longitude": "-48.6061471"
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-camboriu",
+      "label": "balneario-camboriu",
+      "delegacies": [
+        {
+          "name": "29ª – DELEGACIA REGIONAL DE POLÍCIA – BALNEÁRIO CAMBORIÚ",
+          "address": "Balneário Camboriú – SC – CEP: 88330-476",
+          "phones": [
+            "(47) 3398-6820",
+            "(47) 3398-5906 (47) 3398-5905",
+            "(47) 3367-0399 ",
+            " 3367-0692",
+            "(47) 3398-6500"
+          ],
+          "email": "dicbalcamboriu@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.994324533885706",
+            "longitude": "-48.63443361609382"
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-gaivota",
+      "label": "balneario-gaivota",
+      "delegacies": [
+        {
+          "name": "Balneário Gaivota – Delegacia de Polícia do Município",
+          "address": "Balneário Gaivota – SC – CEP: 88955-000",
+          "phones": [
+            "(48) 3583-1365"
+          ],
+          "email": "dpbalneariogaivota@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-29.1553098",
+            "longitude": "-49.5808712"
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-picarras",
+      "label": "balneario-picarras",
+      "delegacies": [
+        {
+          "name": "Balneário Piçarras – Delegacia de Polícia da Comarca",
+          "address": "Piçarras – SC – CEP: 88380-000",
+          "phones": [
+            "(47)3398-6168"
+          ],
+          "email": "dppicarras@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "balneario-rincao",
+      "label": "balneario-rincao",
+      "delegacies": [
+        {
+          "name": "Balneário Rincão – Delegacia de Polícia do Município",
+          "address": "Balneário Rincão – SC – CEP: 88828-000",
+          "phones": [
+            "(48) 3403-1090"
+          ],
+          "email": "dpbalneariorincao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.8235718",
+            "longitude": "-49.2241642"
+          }
+        }
+      ]
+    },
+    {
+      "name": "bandeirante",
+      "label": "bandeirante",
+      "delegacies": [
+        {
+          "name": "Bandeirante – Delegacia de Polícia do Município",
+          "address": "Bandeirante – SC – CEP: 89905-000",
+          "phones": [
+            "(49) 3631-2974"
+          ],
+          "email": "dpbandeirante@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7673451",
+            "longitude": "-53.6391722"
+          }
+        }
+      ]
+    },
+    {
+      "name": "barra-bonita",
+      "label": "barra-bonita",
+      "delegacies": [
+        {
+          "name": "Barra Bonita – Delegacia de Polícia do Município",
+          "address": "Barra Bonita – SC – CEP: 89909-000",
+          "phones": [
+            "(49) 3631-2958"
+          ],
+          "email": "dpbarrabonita@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "barra-velha",
+      "label": "barra-velha",
+      "delegacies": [
+        {
+          "name": "Barra Velha – Delegacia de Polícia da Comarca",
+          "address": "Barra Velha – SC – CEP: 88390-000",
+          "phones": [
+            "(47) 3456-0190"
+          ],
+          "email": "dpbarravelha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "bela-vista-do-toldo",
+      "label": "bela-vista-do-toldo",
+      "delegacies": [
+        {
+          "name": "Bela Vista do Toldo – Delegacia de Policia do Municipio",
+          "address": "Bela Vista do Toldo – SC – CEP: 89478-000",
+          "phones": [
+            "(47) 3629-0081"
+          ],
+          "email": "dpbelavistadotoldo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.274625",
+            "longitude": "-50.466354"
+          }
+        }
+      ]
+    },
+    {
+      "name": "belmonte",
+      "label": "belmonte",
+      "delegacies": [
+        {
+          "name": "Belmonte – Delegacia de Polícia do Município",
+          "address": "Belmonte – SC – CEP: 89925-000",
+          "phones": [
+            "(49) 3625-0155"
+          ],
+          "email": "dpbelmonte@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "benedito-novo",
+      "label": "benedito-novo",
+      "delegacies": [
+        {
+          "name": "Benedito Novo – Delegacia de Polícia do Município",
+          "address": "Benedito Novo – SC – CEP: 89124-000",
+          "phones": [
+            "(47) 3399-3090"
+          ],
+          "email": "dpbeneditonovo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7840657",
+            "longitude": "-49.3629511"
+          }
+        }
+      ]
+    },
+    {
+      "name": "biguacu",
+      "label": "biguacu",
+      "delegacies": [
+        {
+          "name": "Biguaçu – Delegacia de Polícia da Comarca",
+          "address": "Biguaçu – SC – CEP: 88160-000",
+          "phones": [
+            "(48) 3665-6487"
+          ],
+          "email": "dpbiguacu@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "blumenau",
+      "label": "blumenau",
+      "delegacies": [
+        {
+          "name": "03ª – Delegacia Regional de Polícia – Blumenau",
+          "address": "Timbó – SC – CEP: 89120-000",
+          "phones": [
+            "(47) 3378-8440",
+            "(47) 3353-1190",
+            "(47)  3399-3121",
+            "(47) 3399-3090",
+            "(47) 3326-2146",
+            "(47) 3378-9066",
+            "(47) 3378-9075",
+            "(47) 3326-5487",
+            "(47) 3326-5487",
+            "(47) 3326-5487",
+            "(47) 3378-8206",
+            "(47) 3326-5487",
+            "(47) 3326-5487",
+            "(47) 3329-8829",
+            "(47) 3326-5487",
+            "(47) 3326-5487",
+            "(47) 3337-4334",
+            "(47) 3388-0302",
+            "(47) 3332-1000",
+            "(47) 3378-8795",
+            "(47) 3399-3042",
+            "(47) 3378-8181",
+            "(47) 3399-3085",
+            "47 3399-3073",
+            "(47) 3382-0092"
+          ],
+          "email": "dptimbo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8282737",
+            "longitude": "-49.270641"
+          }
+        }
+      ]
+    },
+    {
+      "name": "bocaina-do-sul",
+      "label": "bocaina-do-sul",
+      "delegacies": [
+        {
+          "name": "Bocaína do Sul – Delegacia de Polícia do Município",
+          "address": "Bocaína do Sul – SC – CEP: 88538-000",
+          "phones": [
+            "(49) 3289-6261"
+          ],
+          "email": "dpbocainadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "bom-jardim-da-serra",
+      "label": "bom-jardim-da-serra",
+      "delegacies": [
+        {
+          "name": "Bom Jardim da Serra – Delegacia de Polícia do Município",
+          "address": "Bom Jardim da Serra – SC – CEP: 88640-000",
+          "phones": [
+            "(49) 3233-0190"
+          ],
+          "email": "dpbomjardimdaserra@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3380324",
+            "longitude": "-49.625588"
+          }
+        }
+      ]
+    },
+    {
+      "name": "bom-jesus",
+      "label": "bom-jesus",
+      "delegacies": [
+        {
+          "name": "Bom Jesus – Delegacia de Polícia do Município",
+          "address": "Bom Jesus – SC – CEP: 89824-000",
+          "phones": [
+            "(49) 3382-2075 ",
+            " 3382-2263"
+          ],
+          "email": "dpbomjesus@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "bom-jesus-do-oeste",
+      "label": "bom-jesus-do-oeste",
+      "delegacies": [
+        {
+          "name": "Bom Jesus do Oeste – Delegacia de Polícia do Município",
+          "address": "Bom Jesus do Oeste – SC – CEP: 89873-000",
+          "phones": [
+            "(49) 3364-6588"
+          ],
+          "email": "dpbomjesusdooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "bom-retiro",
+      "label": "bom-retiro",
+      "delegacies": [
+        {
+          "name": "Bom Retiro – Delegacia de Polícia da Comarca",
+          "address": "Bom Retiro – SC – CEP: 88680-000",
+          "phones": [
+            "(49) 3233-8450"
+          ],
+          "email": "dpbomretiro@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.798993",
+            "longitude": "-49.486994"
+          }
+        }
+      ]
+    },
+    {
+      "name": "bombinhas",
+      "label": "bombinhas",
+      "delegacies": [
+        {
+          "name": "Bombinhas – Delegacia de Polícia do Município",
+          "address": "Bombinhas – SC – CEP: 88215-000",
+          "phones": [
+            "(47) 3398-6204"
+          ],
+          "email": "dpbombinhas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "botuvera",
+      "label": "botuvera",
+      "delegacies": [
+        {
+          "name": "Botuverá – Delegacia de Policia do Município",
+          "address": "Botuverá – SC – CEP: 88370-000",
+          "phones": [
+            "(47) 3359-1211 ",
+            " 3359-1190"
+          ],
+          "email": "dpbotuvera@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "braco-do-norte",
+      "label": "braco-do-norte",
+      "delegacies": [
+        {
+          "name": "Braço do Norte – Delegacia de Polícia da Comarca",
+          "address": "Braço do Norte – SC – CEP: 88750-000",
+          "phones": [
+            "(48) 3651-1837"
+          ],
+          "email": "dpbracodonorte@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.2728633",
+            "longitude": "-49.1622712"
+          }
+        }
+      ]
+    },
+    {
+      "name": "braco-do-trombudo",
+      "label": "braco-do-trombudo",
+      "delegacies": [
+        {
+          "name": "Braço do Trombudo – Delegacia de Polícia do Município",
+          "address": "Braço do Trombudo – SC – CEP: 89178-000",
+          "phones": [
+            "(47) 3547-0213"
+          ],
+          "email": "dpbracodotrombudo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "brunopolis",
+      "label": "brunopolis",
+      "delegacies": [
+        {
+          "name": "Brunópolis – Delegacia de Polícia do Município",
+          "address": "Brunópolis – SC – CEP: 89634-000",
+          "phones": [
+            "(49) 3556-0032",
+            " 3556-0033"
+          ],
+          "email": "dpbrunopolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "brusque",
+      "label": "brusque",
+      "delegacies": [
+        {
+          "name": "17ª – DELEGACIA REGIONAL DE POLÍCIA – BRUSQUE",
+          "address": "Brusque – SC – CEP: 88350-380",
+          "phones": [
+            "(47) 3251-8324",
+            "(47) 3251-8164",
+            "(47) 3251-8303",
+            "(47)3251-8301"
+          ],
+          "email": "dicbrusque@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.099539270330574",
+            "longitude": "-48.91935310393899"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cacador",
+      "label": "cacador",
+      "delegacies": [
+        {
+          "name": "10ª – DELEGACIA REGIONAL DE POLÍCIA – CAÇADOR",
+          "address": "Caçador – SC – CEP: 89500-000",
+          "phones": [
+            "(49) 3563-0240",
+            "(49) 3563-0584",
+            "(49) 3563-0646",
+            "(49) 3561-6478"
+          ],
+          "email": "diccacador@pc.sc.gov.brr",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "caibi",
+      "label": "caibi",
+      "delegacies": [
+        {
+          "name": "Caibi – Delegacia de Polícia do Município",
+          "address": "Caibi – SC – CEP: 89888-000",
+          "phones": [
+            "(49) 3462-4144",
+            "4143"
+          ],
+          "email": "dpcaibi@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0751925",
+            "longitude": "-53.2502133"
+          }
+        }
+      ]
+    },
+    {
+      "name": "calmon",
+      "label": "calmon",
+      "delegacies": [
+        {
+          "name": "Calmon – Delegacia de Polícia do Município",
+          "address": "Calmon – SC – CEP: 89430-000",
+          "phones": [
+            "(49) 3573-0005"
+          ],
+          "email": "dpcalmon@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "camboriu",
+      "label": "camboriu",
+      "delegacies": [
+        {
+          "name": "Camboriú – Delegacia de Polícia da Comarca",
+          "address": "Camboriú – SC – CEP: 88340-000",
+          "phones": [
+            "(47) 3398-6654"
+          ],
+          "email": "dpcamboriu@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "campo-alegre",
+      "label": "campo-alegre",
+      "delegacies": [
+        {
+          "name": "Campo Alegre – Delegacia de Polícia do Município",
+          "address": "Campo Alegre – SC – CEP: 89294-000",
+          "phones": [
+            "(47) 3632-2070"
+          ],
+          "email": "dpcampoalegre@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "campo-belo-do-sul",
+      "label": "campo-belo-do-sul",
+      "delegacies": [
+        {
+          "name": "Campo Belo do Sul – Delegacia de Polícia da Comarca",
+          "address": "Campo Belo do Sul – SC – CEP: 88580-000",
+          "phones": [
+            "(49) 3289-6476"
+          ],
+          "email": "dpcampobelodosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.8989298",
+            "longitude": "-50.759562"
+          }
+        }
+      ]
+    },
+    {
+      "name": "campo-ere",
+      "label": "campo-ere",
+      "delegacies": [
+        {
+          "name": "Campo Erê – Delegacia de Polícia de Fronteira da Comarca",
+          "address": "Campo Erê – SC – CEP: 89980-000",
+          "phones": [
+            "(49) 3655-1077 ",
+            " 3655-1088"
+          ],
+          "email": "dpcampoere@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "campos-novos",
+      "label": "campos-novos",
+      "delegacies": [
+        {
+          "name": "26ª – DELEGACIA REGIONAL DE POLÍCIA – CAMPOS NOVOS",
+          "address": "Campos Novos – SC – CEP: 89620-000",
+          "phones": [
+            "(49) 3541-0294, (49) 3541-0167 e (49) 3541-0156 e ramal 233",
+            "(49) 3541-0156, (49) 3541-0167 e (49) 3541-0294 e ramal 211",
+            "(49) 3541-0294, (49) 3541-0167 e (49) 3541-0156 e ramal 216",
+            "(49) 3541-0294, (49) 3541-0167 e (49) 3541-0156 e ramal 213"
+          ],
+          "email": "diccamposnovos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.3962904",
+            "longitude": "-51.2224397"
+          }
+        }
+      ]
+    },
+    {
+      "name": "canelinha",
+      "label": "canelinha",
+      "delegacies": [
+        {
+          "name": "Canelinha – Delegacia de Polícia do Município",
+          "address": "Canelinha – SC – CEP: 88230-000",
+          "phones": [
+            "(48) 3264-0190"
+          ],
+          "email": "dpcanelinha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2660341",
+            "longitude": "-48.7666708"
+          }
+        }
+      ]
+    },
+    {
+      "name": "canoinhas",
+      "label": "canoinhas",
+      "delegacies": [
+        {
+          "name": "22ª – DELEGACIA REGIONAL DE POLÍCIA – CANOINHAS",
+          "address": "Canoinhas – SC – CEP: 89460-000",
+          "phones": [
+            "(47) 3622-4271",
+            "3622-4080",
+            "3622-3607",
+            "3622-3620",
+            "(47) 3622-4080",
+            "(47) 3622-4080",
+            "(47) 3622-4271 ",
+            " 3622-4080 ",
+            " 3622-3607 ",
+            " 3622-3620"
+          ],
+          "email": "dpcocanoinhas@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "capao-alto",
+      "label": "capao-alto",
+      "delegacies": [
+        {
+          "name": "Capão Alto – Delegacia de Polícia do Município",
+          "address": "Capão Alto – SC – CEP: 88548-000",
+          "phones": [
+            "(49 )3289-6262"
+          ],
+          "email": "dpcapaoalto@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.9382827",
+            "longitude": "-50.511491"
+          }
+        }
+      ]
+    },
+    {
+      "name": "capinzal",
+      "label": "capinzal",
+      "delegacies": [
+        {
+          "name": "Capinzal – Delegacia de Policia da Comarca",
+          "address": "Capinzal – SC – CEP: 89665-000",
+          "phones": [
+            "(49) 3527-9367"
+          ],
+          "email": "dpcapinzal@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.3440651",
+            "longitude": "-51.6110403"
+          }
+        }
+      ]
+    },
+    {
+      "name": "capivari-de-baixo",
+      "label": "capivari-de-baixo",
+      "delegacies": [
+        {
+          "name": "Capivari de Baixo – Delegacia de Polícia da Comarca",
+          "address": "Capivari de Baixo – SC – CEP: 88745-000",
+          "phones": [
+            "(48) 3631-9307"
+          ],
+          "email": "dpcapivari@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.449773",
+            "longitude": "-48.963144"
+          }
+        }
+      ]
+    },
+    {
+      "name": "catanduvas",
+      "label": "catanduvas",
+      "delegacies": [
+        {
+          "name": "Catanduvas – Delegacia de Policia da Comarca",
+          "address": "Catanduvas – SC – CEP: 89670-000",
+          "phones": [
+            "(49) 3525-1399"
+          ],
+          "email": "dpcatanduvas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0689719",
+            "longitude": "-51.660158"
+          }
+        }
+      ]
+    },
+    {
+      "name": "caxambu-do-sul",
+      "label": "caxambu-do-sul",
+      "delegacies": [
+        {
+          "name": "Caxambú do Sul – Delegacia de Polícia do Município",
+          "address": "Caxambú do Sul – SC – CEP: 89880-000",
+          "phones": [
+            "(49) 2049-7506"
+          ],
+          "email": "dpcaxambudosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1615046",
+            "longitude": "-52.8796675"
+          }
+        }
+      ]
+    },
+    {
+      "name": "celso-ramos",
+      "label": "celso-ramos",
+      "delegacies": [
+        {
+          "name": "Celso Ramos – Delegacia de Polícia do Município",
+          "address": "Celso Ramos – SC – CEP: 88598-000",
+          "phones": [
+            "(49)3541-3363"
+          ],
+          "email": "dpcelsoramos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "cerro-negro",
+      "label": "cerro-negro",
+      "delegacies": [
+        {
+          "name": "Cerro Negro – Delegacia de Polícia do Município",
+          "address": "Cerro Negro – SC – CEP: 88585-000",
+          "phones": [
+            "(49) 3289-6263"
+          ],
+          "email": "dpcerronegro@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.7953331",
+            "longitude": "-50.8741305"
+          }
+        }
+      ]
+    },
+    {
+      "name": "chapadao-do-lageado",
+      "label": "chapadao-do-lageado",
+      "delegacies": [
+        {
+          "name": "Chapadão do Lageado – Delegacia de Polícia do Município",
+          "address": "Chapadão do Lageado – SC – CEP: 88407-000",
+          "phones": [
+            "(47) 3533-8808"
+          ],
+          "email": "chapadaodolageado@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.590507",
+            "longitude": "-49.553879"
+          }
+        }
+      ]
+    },
+    {
+      "name": "chapeco",
+      "label": "chapeco",
+      "delegacies": [
+        {
+          "name": "12ª – DELEGACIA REGIONAL DE POLÍCIA – CHAPECÓ",
+          "address": "Rua Uruguai, n.º 39-D, Centro, Chapecó/SC, CEP: 89802-500",
+          "phones": [
+            "(49) 2049 7910",
+            "(49) 2049-7908",
+            "(49) 2049-7893",
+            "(49)  2049-9947",
+            "(49) 2049-9879",
+            "(49) 2049-7874",
+            "(49) 2049-9973",
+            "(49) 2049-9333"
+          ],
+          "email": "5decor@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "cocal-do-sul",
+      "label": "cocal-do-sul",
+      "delegacies": [
+        {
+          "name": "Cocal do Sul – Delegacia de Polícia do Município",
+          "address": "Cocal do Sul – SC – CEP: 88845-000",
+          "phones": [
+            "(48) 3403-1212  e  (48) 3403-1213"
+          ],
+          "email": "dpcocaldosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "concordia",
+      "label": "concordia",
+      "delegacies": [
+        {
+          "name": "14ª – DELEGACIA REGIONAL DE POLÍCIA – CONCÓRDIA",
+          "address": "Concórdia – SC – CEP: 89700-000",
+          "phones": [
+            "(49) 3442-2020 ",
+            " 3442-1750 ",
+            " 3442-1096",
+            "(49) 3482-6116 ",
+            " 3482-6115 (Secretaria)",
+            "(49) 3482-6057",
+            "(49) 3482-6056"
+          ],
+          "email": "dicconcordia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "cordilheira-alta",
+      "label": "cordilheira-alta",
+      "delegacies": [
+        {
+          "name": "Cordilheira Alta – Delegacia de Polícia do Município",
+          "address": "Cordilheira Alta – SC – CEP: 89819-000",
+          "phones": [
+            "(49) 2049-7591"
+          ],
+          "email": "dpcordilheiraalta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9853947",
+            "longitude": "-52.603549"
+          }
+        }
+      ]
+    },
+    {
+      "name": "coronel-freitas",
+      "label": "coronel-freitas",
+      "delegacies": [
+        {
+          "name": "Coronel Freitas – Delegacia de Polícia da Comarca",
+          "address": "Coronel Freitas – SC – CEP: 89840-000",
+          "phones": [
+            "(49) 2049-9983"
+          ],
+          "email": "dpcoronelfreitas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9058932",
+            "longitude": "-52.7028055"
+          }
+        }
+      ]
+    },
+    {
+      "name": "coronel-martins",
+      "label": "coronel-martins",
+      "delegacies": [
+        {
+          "name": "Coronel Martins – Delegacia de Polícia de Fronteira do Município",
+          "address": "Coronel Martins – SC – CEP: 89837-000",
+          "phones": [
+            "(49) 3459-0050"
+          ],
+          "email": "dpcoronelmartins@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "correia-pinto",
+      "label": "correia-pinto",
+      "delegacies": [
+        {
+          "name": "Correia Pinto – Delegacia de Polícia da Comarca",
+          "address": "Correia Pinto – SC – CEP: 88535-000",
+          "phones": [
+            "(49) 3289-9090"
+          ],
+          "email": "dpcorreiapinto@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.587688",
+            "longitude": "-50.361448"
+          }
+        }
+      ]
+    },
+    {
+      "name": "corupa",
+      "label": "corupa",
+      "delegacies": [
+        {
+          "name": "Corupá – Delegacia de Polícia do Município",
+          "address": "Corupá – SC – CEP: 89280-000",
+          "phones": [
+            "(47) 3726-9480 ",
+            " 3276-9483"
+          ],
+          "email": "dpcorupa@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "criciuma",
+      "label": "criciuma",
+      "delegacies": [
+        {
+          "name": "06ª – DELEGACIA REGIONAL DE POLÍCIA – CRICIÚMA",
+          "address": "Criciúma – SC – CEP: 88803-200",
+          "phones": [
+            "(48) 3461-2400",
+            "(48)  3403-1523",
+            "(48) 3438-2190 ",
+            " 3438-4053",
+            "(48) 3403-1033 e 3403-1034.",
+            "(48) 3403-1696",
+            "(48) 3403-1717 ",
+            " 3403-1718",
+            "(48) 3461-9800"
+          ],
+          "email": "diccriciuma@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.692199298319572",
+            "longitude": "-49.37388329999338"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cunha-pora",
+      "label": "cunha-pora",
+      "delegacies": [
+        {
+          "name": "Cunha Porã – Delegacia de Polícia da Comarca",
+          "address": "Cunha Porã – SC – CEP: 89890-000",
+          "phones": [
+            "(49) 3462-4094."
+          ],
+          "email": "dpcunhapora@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8927163",
+            "longitude": "-53.1716516"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cunhatai",
+      "label": "cunhatai",
+      "delegacies": [
+        {
+          "name": "Cunhataí – Delegacia de Polícia do Município",
+          "address": "Cunhataí – SC – CEP: 89886-000",
+          "phones": [
+            "(49) 3338-0162"
+          ],
+          "email": "dpcunhatai@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "curitibanos",
+      "label": "curitibanos",
+      "delegacies": [
+        {
+          "name": "24ª – DELEGACIA REGIONAL DE POLÍCIA – CURITIBANOS",
+          "address": "Curitibanos – SC – CEP: 89520-000",
+          "phones": [
+            "(49) 3241-0038",
+            "(49) 3245-0123",
+            "(49) 3245-0123",
+            "(49) 3245-0123",
+            "(49) 3412-3074"
+          ],
+          "email": "dpoi@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2900659",
+            "longitude": "-50.5779683"
+          }
+        }
+      ]
+    },
+    {
+      "name": "descanso",
+      "label": "descanso",
+      "delegacies": [
+        {
+          "name": "Descanso – Delegacia de Polícia da Comarca",
+          "address": "Descanso – SC – CEP: 89910-000",
+          "phones": [
+            "(49) 3623-0139"
+          ],
+          "email": "dpdescanso@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8246854",
+            "longitude": "-53.5017586"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dionisio-cerqueira",
+      "label": "dionisio-cerqueira",
+      "delegacies": [
+        {
+          "name": "Dionísio Cerqueira – Delegacia de Polícia da Comarca",
+          "address": "Dionísio Cerqueira – SC – CEP: 89950-000",
+          "phones": [
+            "(49) 3644-1093 ",
+            " 3644-0041"
+          ],
+          "email": "dpdionisiocerqueira@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.2604681",
+            "longitude": "-53.6346379"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dona-emma",
+      "label": "dona-emma",
+      "delegacies": [
+        {
+          "name": "Dona Emma – Delegacia de Polícia do Município",
+          "address": "Dona Emma – SC – CEP: 89155-000",
+          "phones": [
+            "(47) 3357-8999"
+          ],
+          "email": "dpdonaemma@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "doutor-pedrinho",
+      "label": "doutor-pedrinho",
+      "delegacies": [
+        {
+          "name": "Doutor Pedrinho – Delegacia de Polícia do Município",
+          "address": "Doutor Pedrinho – SC – CEP: 89126-000",
+          "phones": [
+            "(47) 3388-0302"
+          ],
+          "email": "dpdrpedrinho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.716408",
+            "longitude": "-49.482726"
+          }
+        }
+      ]
+    },
+    {
+      "name": "entre-rios",
+      "label": "entre-rios",
+      "delegacies": [
+        {
+          "name": "Entre Rios – Delegacia de Polícia do Município",
+          "address": "Entre Rios – SC – CEP: 89862-000",
+          "phones": [
+            "(49) 3351-0121"
+          ],
+          "email": "dpentrerios@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ermo",
+      "label": "ermo",
+      "delegacies": [
+        {
+          "name": "Ermo – Delegacia de Polícia do Município",
+          "address": "Ermo – SC – CEP: 88935-000",
+          "phones": [
+            "(48) 3529-0121"
+          ],
+          "email": "dpermo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.9849219",
+            "longitude": "-49.6427198"
+          }
+        }
+      ]
+    },
+    {
+      "name": "erval-velho",
+      "label": "erval-velho",
+      "delegacies": [
+        {
+          "name": "Erval Velho – Delegacia de Polícia do Município",
+          "address": "Erval Velho – SC – CEP: 89613-000",
+          "phones": [
+            "(49) 3542-1190 ",
+            " 3542-1377"
+          ],
+          "email": "dpervalvelho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "faxinal-dos-guedes",
+      "label": "faxinal-dos-guedes",
+      "delegacies": [
+        {
+          "name": "Faxinal dos Guedes – Delegacia de Polícia do Município",
+          "address": "Faxinal dos Guedes – SC – CEP: 89694-000",
+          "phones": [
+            "(49) 3436-0290"
+          ],
+          "email": "dpfaxinaldosguedes@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8494222",
+            "longitude": "-52.2586485"
+          }
+        }
+      ]
+    },
+    {
+      "name": "flor-do-sertao",
+      "label": "flor-do-sertao",
+      "delegacies": [
+        {
+          "name": "Flor do Sertão – Delegacia de Polícia do Município",
+          "address": "Flor do Sertão – SC – CEP: 89878-000",
+          "phones": [
+            "(49) 3664-6568"
+          ],
+          "email": "dpflordosertao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7784693",
+            "longitude": "-53.3478823"
+          }
+        }
+      ]
+    },
+    {
+      "name": "florianopolis",
+      "label": "florianopolis",
+      "delegacies": [
+        {
+          "name": "DELEGACIA GERAL DA POLÍCIA CIVIL – DGPC",
+          "address": "Florianópolis – SC – CEP: 88.064-002",
+          "phones": [
+            "(48) 3665-8488",
+            "(48) 3664-2230",
+            "(48) 3665-8078",
+            "(48) 3665-8420",
+            "(48) 3665-6406",
+            "(48) 3665-5591",
+            "92",
+            "93",
+            "(48) 3665-5796 – 3665-5797 – 3665-5799",
+            "(48) 3665-8097",
+            "(48) 3665-8092",
+            "(48) 3665-5723",
+            "(48) 3665-5726.",
+            "(48) 3665 8103",
+            "(48) 3665-4453",
+            "(48) 3665-5883",
+            "(48) 3664-2920",
+            "(48) 3665-6444",
+            "(48) 3665-6528",
+            "(48) 3665-4797",
+            "(48)  3665-8081",
+            "(48) 3665-4960 ",
+            " 3665-4961",
+            "(48) 3665-6455",
+            "(48) 3665-4797",
+            "(48) 3664-2956 ",
+            " 3664-2960",
+            "(48) 3664-2947 ",
+            " 3664-2949 ",
+            " 3664-2949",
+            "(48) 3251-5229",
+            "(48) 3664-2920",
+            "(48) 3664-2356",
+            "(48) 3665-5741"
+          ],
+          "email": "subdpribeiraodailha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.718247751589136",
+            "longitude": "-48.56419943602075"
+          }
+        }
+      ]
+    },
+    {
+      "name": "formosa-do-sul",
+      "label": "formosa-do-sul",
+      "delegacies": [
+        {
+          "name": "Formosa do Sul – Delegacia de Polícia de Fronteira do Município",
+          "address": "Formosa do Sul – SC – CEP: 89859-000",
+          "phones": [
+            "(49) 3346-2455"
+          ],
+          "email": "dpformosadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6478829",
+            "longitude": "-52.7934366"
+          }
+        }
+      ]
+    },
+    {
+      "name": "forquilhinha",
+      "label": "forquilhinha",
+      "delegacies": [
+        {
+          "name": "Forquilhinha – Delegacia de Polícia da Comarca",
+          "address": "Forquilhinha – SC – CEP: 88850-000",
+          "phones": [
+            "(48) 3403-7148, 3403-7151, 3403-7146."
+          ],
+          "email": "dpforquilhinha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.7487602",
+            "longitude": "-49.4737661"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fraiburgo",
+      "label": "fraiburgo",
+      "delegacies": [
+        {
+          "name": "Fraiburgo – Delegacia de Polícia da Comarca",
+          "address": "Fraiburgo – SC – CEP: 89580-000",
+          "phones": [
+            "(49) 3533-5456 ",
+            " 3533-5457 ",
+            " 3533-5452 ",
+            " 3533-5666"
+          ],
+          "email": "dpfraiburgo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.023288",
+            "longitude": "-50.919978"
+          }
+        }
+      ]
+    },
+    {
+      "name": "frei-rogerio",
+      "label": "frei-rogerio",
+      "delegacies": [
+        {
+          "name": "Frei Rogério – Delegacia de Polícia do Município",
+          "address": "Frei Rogério – SC – CEP: 89530-000",
+          "phones": [
+            "(49) 3257-0023"
+          ],
+          "email": "dpfreirogerio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.175021",
+            "longitude": "-50.807621"
+          }
+        }
+      ]
+    },
+    {
+      "name": "galvao",
+      "label": "galvao",
+      "delegacies": [
+        {
+          "name": "Galvão – Delegacia de Polícia de Fronteira do Município",
+          "address": "Galvão – SC – CEP: 89838-000",
+          "phones": [
+            "(49) 3372-1068"
+          ],
+          "email": "dpgalvao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "garopaba",
+      "label": "garopaba",
+      "delegacies": [
+        {
+          "name": "Garopaba – Delegacia de Polícia da Comarca",
+          "address": "Garopaba – SC – CEP: 88495-000",
+          "phones": [
+            "(48) 3254-3190 ",
+            " 3254-1475"
+          ],
+          "email": "dpgaropaba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.0274798",
+            "longitude": "-48.6240197"
+          }
+        }
+      ]
+    },
+    {
+      "name": "garuva",
+      "label": "garuva",
+      "delegacies": [
+        {
+          "name": "Garuva – Delegacia de Polícia da Comarca",
+          "address": "Garuva – SC – CEP: 89248-000",
+          "phones": [
+            "(47) 3461-1276"
+          ],
+          "email": "dpgaruva@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.0294904",
+            "longitude": "-48.8545202"
+          }
+        }
+      ]
+    },
+    {
+      "name": "gaspar",
+      "label": "gaspar",
+      "delegacies": [
+        {
+          "name": "Gaspar – Delegacia de Polícia da Comarca",
+          "address": "Gaspar – SC – CEP: 89110-000",
+          "phones": [
+            "(47) 3332-1000"
+          ],
+          "email": "dpgaspar@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "governador-celso-ramos",
+      "label": "governador-celso-ramos",
+      "delegacies": [
+        {
+          "name": "Governador Celso Ramos – Delegacia de Polícia do Município",
+          "address": "Governador Celso Ramos – SC – CEP: 88190-000",
+          "phones": [
+            "(48) 3262-0148 ",
+            " 3665-4959 ",
+            " 3665-5839 ",
+            " 3663-5840"
+          ],
+          "email": "dpgovernadorcelsoramos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.317161",
+            "longitude": "-48.557608"
+          }
+        }
+      ]
+    },
+    {
+      "name": "grao-para",
+      "label": "grao-para",
+      "delegacies": [
+        {
+          "name": "Grão Pará – Delegacia de Polícia do Município",
+          "address": "Grão Pará – SC – CEP: 88890-000",
+          "phones": [
+            "(48) 3651-1839"
+          ],
+          "email": "dpgraopara@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "gravatal",
+      "label": "gravatal",
+      "delegacies": [
+        {
+          "name": "Gravatal – Delegacia de Polícia do Município",
+          "address": "Gravatal – SC – CEP: 88735-000",
+          "phones": [
+            "(48) 3631-9365"
+          ],
+          "email": "dpgravatal@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3300703",
+            "longitude": "-49.0362296"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guabiruba",
+      "label": "guabiruba",
+      "delegacies": [
+        {
+          "name": "Guabiruba – Delegacia de Policia do Município",
+          "address": "Guabiruba – SC – CEP: 88360-000",
+          "phones": [
+            "(47) 3354-0190 ",
+            " (47) 3251-8181"
+          ],
+          "email": "dpguabiruba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0864326",
+            "longitude": "-48.9781319"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guaraciaba",
+      "label": "guaraciaba",
+      "delegacies": [
+        {
+          "name": "Guaraciaba – Delegacia de Polícia do Município",
+          "address": "Guaraciaba – SC – CEP: 89920-000",
+          "phones": [
+            "(49) 3645-0111"
+          ],
+          "email": "dpguaraciaba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6001986",
+            "longitude": "-53.5216209"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guaramirim",
+      "label": "guaramirim",
+      "delegacies": [
+        {
+          "name": "Guaramirim – Delegacia de Polícia da Comarca",
+          "address": "Guaramirim – SC – CEP: 89270-000",
+          "phones": [
+            "(47) 3373-0222 ",
+            " 3373-0384"
+          ],
+          "email": "dpguaramirim@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.4744805",
+            "longitude": "-48.9981151"
+          }
+        }
+      ]
+    },
+    {
+      "name": "guaruja-do-sul",
+      "label": "guaruja-do-sul",
+      "delegacies": [
+        {
+          "name": "Guarujá do Sul – Delegacia de Polícia do Município",
+          "address": "Guarujá do Sul – SC – CEP: 89940-000",
+          "phones": [
+            "(49) 3642-0142"
+          ],
+          "email": "dpguarujadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "guatambu",
+      "label": "guatambu",
+      "delegacies": [
+        {
+          "name": "Guatambú – Delegacia de Polícia do Município",
+          "address": "Guatambú – SC – CEP: 89817-000",
+          "phones": [
+            "(49) 2049-7589"
+          ],
+          "email": "dpguatambu@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1333139",
+            "longitude": "-52.7852104"
+          }
+        }
+      ]
+    },
+    {
+      "name": "herval-d-oeste",
+      "label": "herval-d-oeste",
+      "delegacies": [
+        {
+          "name": "Herval do Oeste – Delegacia de Policia da Comarca",
+          "address": "Herval do Oeste – SC – CEP: 89610-000",
+          "phones": [
+            "(49) 3554-0011 ",
+            " 3554-2124"
+          ],
+          "email": "dphervaldooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.17361",
+            "longitude": "-51.4903659"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ibiam",
+      "label": "ibiam",
+      "delegacies": [
+        {
+          "name": "Ibiam – Delegacia de Polícia do Município",
+          "address": "Ibian – SC – CEP: 89652-000",
+          "phones": [
+            "(49) 3541-3399"
+          ],
+          "email": "dpibian@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ibicare",
+      "label": "ibicare",
+      "delegacies": [
+        {
+          "name": "Ibicaré – Delegacia de Polícia do Município",
+          "address": "Ibicaré – SC – CEP: 89642-000",
+          "phones": [
+            "(49) 3538-0149"
+          ],
+          "email": "dpibicare@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0997957",
+            "longitude": "-51.2477143"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ibirama",
+      "label": "ibirama",
+      "delegacies": [
+        {
+          "name": "Ibirama – Delegacia de Polícia da Comarca",
+          "address": "Ibirama – SC – CEP: 89140-000",
+          "phones": [
+            "(47) 3357-2050"
+          ],
+          "email": "dpibirama@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "icara",
+      "label": "icara",
+      "delegacies": [
+        {
+          "name": "Içara – Delegacia de Polícia da Comarca",
+          "address": "Içara – SC – CEP: 88820-000",
+          "phones": [
+            "(48) 3432-3114"
+          ],
+          "email": "dpicara@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.7116553",
+            "longitude": "-49.2971441"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ilhota",
+      "label": "ilhota",
+      "delegacies": [
+        {
+          "name": "Ilhota – Delegacia de Polícia do Município",
+          "address": "Ilhota – SC – CEP: 88320-000",
+          "phones": [
+            "(47)  3378-8795"
+          ],
+          "email": "dpilhota@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "imarui",
+      "label": "imarui",
+      "delegacies": [
+        {
+          "name": "Imaruí – Delegacia de Polícia da Comarca",
+          "address": "Imaruí – SC – CEP: 88770-000",
+          "phones": [
+            "(48) 3643-0190 ",
+            " 3643-0091"
+          ],
+          "email": "dpimarui@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "imbituba",
+      "label": "imbituba",
+      "delegacies": [
+        {
+          "name": "Imbituba – Delegacia de Polícia da Comarca",
+          "address": "Imbituba – SC – CEP: 88780-000",
+          "phones": [
+            "(48) 3647-7777 e (48) 99176-0626"
+          ],
+          "email": "dpimbituba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.241827",
+            "longitude": "-48.6643444"
+          }
+        }
+      ]
+    },
+    {
+      "name": "imbuia",
+      "label": "imbuia",
+      "delegacies": [
+        {
+          "name": "Imbuia – Delegacia de Polícia do Município",
+          "address": "Imbuia – SC – CEP: 88440-000",
+          "phones": [
+            "(47) 3533-8789"
+          ],
+          "email": "dpimbuia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.49082",
+            "longitude": "-49.421766"
+          }
+        }
+      ]
+    },
+    {
+      "name": "indaial",
+      "label": "indaial",
+      "delegacies": [
+        {
+          "name": "Indaial – Delegacia de Polícia da Comarca",
+          "address": "Indaial – SC – CEP: 89130-000",
+          "phones": [
+            "(47) 3399-3042"
+          ],
+          "email": "dpindaial@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "iomere",
+      "label": "iomere",
+      "delegacies": [
+        {
+          "name": "Iomerê – Delegacia de Polícia do Município",
+          "address": "Iomerê – SC – CEP: 89558-000",
+          "phones": [
+            "(49) 3533-5455"
+          ],
+          "email": "dpiomere@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ipira",
+      "label": "ipira",
+      "delegacies": [
+        {
+          "name": "Ipira – Delegacia de Polícia do Município",
+          "address": "Ipira – SC – CEP: 89669-000",
+          "phones": [
+            "(49) 3558-0820 ",
+            " 3482-6113"
+          ],
+          "email": "dpipira@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4053188",
+            "longitude": "-51.7734648"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ipora-do-oeste",
+      "label": "ipora-do-oeste",
+      "delegacies": [
+        {
+          "name": "Iporã do Oeste – Delegacia de Polícia do Município",
+          "address": "Iporã do Oeste – SC – CEP: 89899-000",
+          "phones": [
+            "(49) 3634-1266"
+          ],
+          "email": "dpiporadooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9884305",
+            "longitude": "-53.5345628"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ipuacu",
+      "label": "ipuacu",
+      "delegacies": [
+        {
+          "name": "Ipuaçu – Delegacia de Polícia do Município",
+          "address": "Ipuaçú – SC – CEP: 89832-000",
+          "phones": [
+            "(49) 3449-0035"
+          ],
+          "email": "dpipuacu@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6349873",
+            "longitude": "-52.4555915"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ipumirim",
+      "label": "ipumirim",
+      "delegacies": [
+        {
+          "name": "Ipumirim – Delegacia de Polícia da Comarca",
+          "address": "Ipumirim – SC – CEP: 89790-000",
+          "phones": [
+            "(49) 3438-1006"
+          ],
+          "email": "dpipumirim@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "iraceminha",
+      "label": "iraceminha",
+      "delegacies": [
+        {
+          "name": "Iraceminha – Delegacia de Polícia do Município",
+          "address": "Iraceminha – SC – CEP: 89891-000",
+          "phones": [
+            "(49) 3664-6573"
+          ],
+          "email": "dpiraceminha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "irani",
+      "label": "irani",
+      "delegacies": [
+        {
+          "name": "Irani – Delegacia de Polícia do Município",
+          "address": "Irani – SC – CEP: 89680-000",
+          "phones": [
+            "(49) 3432-0190"
+          ],
+          "email": "dpirani@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0230476",
+            "longitude": "-51.9010675"
+          }
+        }
+      ]
+    },
+    {
+      "name": "irati",
+      "label": "irati",
+      "delegacies": [
+        {
+          "name": "Irati – Delegacia de Polícia de Fronteira do Município",
+          "address": "Irati – SC – CEP: 89856-000",
+          "phones": [
+            "(49) 3349-0131"
+          ],
+          "email": "dpirati@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "irineopolis",
+      "label": "irineopolis",
+      "delegacies": [
+        {
+          "name": "Irineópolis – Delegacia de Polícia do Município",
+          "address": "Irineópolis – SC – CEP: 89440-000",
+          "phones": [
+            "(47) 3625-1160"
+          ],
+          "email": "dpirineopolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.242006",
+            "longitude": "-50.795687"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ita",
+      "label": "ita",
+      "delegacies": [
+        {
+          "name": "Itá – Delegacia de Polícia da Comarca",
+          "address": "Itá – SC – CEP: 89760-000",
+          "phones": [
+            "(49) 3458-1388"
+          ],
+          "email": "dpita@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.275006",
+            "longitude": "-52.3381725"
+          }
+        }
+      ]
+    },
+    {
+      "name": "itaiopolis",
+      "label": "itaiopolis",
+      "delegacies": [
+        {
+          "name": "Itaiópolis – Delegacia de Polícia da Comarca",
+          "address": "Itaiópolis – SC – CEP: 89340-000",
+          "phones": [
+            "(47) 3647-0600"
+          ],
+          "email": "dpitaiopolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.3391899",
+            "longitude": "-49.9071983"
+          }
+        }
+      ]
+    },
+    {
+      "name": "itajai",
+      "label": "itajai",
+      "delegacies": [
+        {
+          "name": "04ª – DELEGACIA REGIONAL DE POLÍCIA – ITAJAÍ",
+          "address": "Itajaí – SC – CEP: 88303-070",
+          "phones": [
+            "(47) 3241-1500",
+            "(47) 3398-6142",
+            "(47) 3398-6290",
+            "(47) 3398-6287",
+            "(47) 3246-4701",
+            "(47) 3398-6578",
+            "(47) 3398-6280",
+            "(47) 3348-2004",
+            "(47) 3398-6142"
+          ],
+          "email": "dpol@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.913199685700782",
+            "longitude": "-48.668694812247274"
+          }
+        }
+      ]
+    },
+    {
+      "name": "itapema",
+      "label": "itapema",
+      "delegacies": [
+        {
+          "name": "Itapema – Delegacia de Polícia da Comarca",
+          "address": "Itapema – SC – CEP: 88220-000",
+          "phones": [
+            "(47) 3368-5418 ",
+            " 3368-4604"
+          ],
+          "email": "dpitapema@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "itapiranga",
+      "label": "itapiranga",
+      "delegacies": [
+        {
+          "name": "Itapiranga – Delegacia de Polícia da Comarca",
+          "address": "Itapiranga – SC – CEP: 89896-000",
+          "phones": [
+            "(49) 3677-0903 ",
+            " 3677-0490"
+          ],
+          "email": "dpitapiranga@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1724236",
+            "longitude": "-53.7118989"
+          }
+        }
+      ]
+    },
+    {
+      "name": "itapoa",
+      "label": "itapoa",
+      "delegacies": [
+        {
+          "name": "Itapoá – Delegacia de Polícia da Comarca",
+          "address": "Itapoá – SC – CEP: 89249-000",
+          "phones": [
+            "(47) 3481-3681  (47) 3481-4324"
+          ],
+          "email": "dpitapoa@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.1162431",
+            "longitude": "-48.6180177"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ituporanga",
+      "label": "ituporanga",
+      "delegacies": [
+        {
+          "name": "20ª – DELEGACIA REGIONAL DE POLÍCIA – ITUPORANGA",
+          "address": "Ituporanga - SC - CEP: 88400-000",
+          "phones": [
+            "(47) 3533-8917",
+            "(47) 3533-8902",
+            "(47) 3533-8905"
+          ],
+          "email": "dicituporanga@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4096219",
+            "longitude": "-49.6014812"
+          }
+        }
+      ]
+    },
+    {
+      "name": "jabora",
+      "label": "jabora",
+      "delegacies": [
+        {
+          "name": "Jaborá – Delegacia de Polícia do Município",
+          "address": "Jaborá – SC – CEP: 89677-000",
+          "phones": [
+            "(49) 3526-1271"
+          ],
+          "email": "dpjabora@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1743246",
+            "longitude": "-51.7348631"
+          }
+        }
+      ]
+    },
+    {
+      "name": "jacinto-machado",
+      "label": "jacinto-machado",
+      "delegacies": [
+        {
+          "name": "Jacinto Machado – Delegacia de Polícia do Município",
+          "address": "Jacinto Machado – SC – CEP: 88950-000",
+          "phones": [
+            "(48) 3535-1205"
+          ],
+          "email": "dpjacintomachado@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.999338",
+            "longitude": "-49.7603204"
+          }
+        }
+      ]
+    },
+    {
+      "name": "jaguaruna",
+      "label": "jaguaruna",
+      "delegacies": [
+        {
+          "name": "Jaguaruna – Delegacia de Polícia da Comarca",
+          "address": "Jaguaruna – SC – CEP: 88715-000",
+          "phones": [
+            "(48) 3631-9391"
+          ],
+          "email": "dpjaguaruna@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.6237365",
+            "longitude": "-49.0288664"
+          }
+        }
+      ]
+    },
+    {
+      "name": "jaragua-do-sul",
+      "label": "jaragua-do-sul",
+      "delegacies": [
+        {
+          "name": "15ª – DELEGACIA REGIONAL DE POLÍCIA – JARAGUÁ DO SUL",
+          "address": "Jaraguá do Sul – SC – CEP: 89251-130",
+          "phones": [
+            "(47) 3370-8383 ",
+            " 3370-7948 ",
+            " 3370-8351",
+            "(47) 3371-1014 ",
+            " 3371-0123 ",
+            " 3371-9036",
+            "(47) 3371-1014 ",
+            " 3371-0123 ",
+            " 3371-9036",
+            "(47) 3370-0331",
+            "(47) 3276-9477"
+          ],
+          "email": "dicjaraguadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.4774048",
+            "longitude": "-49.08702905"
+          }
+        }
+      ]
+    },
+    {
+      "name": "jardinopolis",
+      "label": "jardinopolis",
+      "delegacies": [
+        {
+          "name": "Jardinópolis – Delegacia de Polícia do Município",
+          "address": "Jardinópolis – SC – CEP: 89845-000",
+          "phones": [
+            "(49) 3337-0214"
+          ],
+          "email": "dpjardinopolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7642155",
+            "longitude": "-52.8515985"
+          }
+        }
+      ]
+    },
+    {
+      "name": "joacaba",
+      "label": "joacaba",
+      "delegacies": [
+        {
+          "name": "11ª – DELEGACIA REGIONAL DE POLÍCIA – JOAÇABA",
+          "address": "Joaçaba – SC – CEP: 89600-000",
+          "phones": [
+            "(49) 3522-3666",
+            "(49) 3521-3536",
+            "(49) 3522-4413",
+            "(49) 3527-9511 e 3527-9512"
+          ],
+          "email": "dpjoacaba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1737204",
+            "longitude": "-51.5065214"
+          }
+        }
+      ]
+    },
+    {
+      "name": "joinville",
+      "label": "joinville",
+      "delegacies": [
+        {
+          "name": "02ª – Delegacia Regional de Polícia – Joinville",
+          "address": "Joinville – SC – CEP: 89225-060",
+          "phones": [
+            "(47) 3481-2300",
+            "(47) 3481-2101",
+            "(47) 3481-2401",
+            "(47) 3481-7532",
+            "(47) 3481-3669 ",
+            " 3481-3671",
+            "(47) 3481 7532",
+            "(47) 3481-2107",
+            "(47) 3481-2873",
+            "(47) 3481-2869",
+            "(47) 3481-2454",
+            "(47) 3481-2800",
+            "(47) 3481-2848",
+            "(47) 3481-2848",
+            "(47) 3481-3628 ",
+            " 3481-3629",
+            "(47) 3481-2848",
+            "(47) 3481-2848",
+            "(47) 3481-2848"
+          ],
+          "email": "dicjoinville@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "jose-boiteux",
+      "label": "jose-boiteux",
+      "delegacies": [
+        {
+          "name": "José Boiteux – Delegacia de Polícia do Município",
+          "address": "José Boiteux – SC – CEP: 89145-000",
+          "phones": [
+            "(47) 3357-8992"
+          ],
+          "email": "dpjoseboiteux@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "jupia",
+      "label": "jupia",
+      "delegacies": [
+        {
+          "name": "Jupiá – Delegacia de Polícia de Fronteira do Município",
+          "address": "Jupiá – SC – CEP: 89990-000",
+          "phones": [
+            "(49) 3372 1073"
+          ],
+          "email": "dpjupia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.35566",
+            "longitude": "-52.849837"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lacerdopolis",
+      "label": "lacerdopolis",
+      "delegacies": [
+        {
+          "name": "Lacerdópolis – Delegacia de Polícia do Município",
+          "address": "Lacerdópolis – SC – CEP: 89660-000",
+          "phones": [
+            "(49) 3552-0109"
+          ],
+          "email": "dplacerdopolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "lages",
+      "label": "lages",
+      "delegacies": [
+        {
+          "name": "08ª – DELEGACIA REGIONAL DE POLÍCIA – LAGES",
+          "address": "Lages – SC – CEP: 88509-040",
+          "phones": [
+            "(49) 3289-8500",
+            "(49) 3289-8180",
+            "(49) 3289-8550",
+            "(49) 3289-8134 ",
+            " 3289-8135",
+            "(49) 3289-8150 ",
+            " 3289-8151 ",
+            " 3289-8152",
+            "(49) 3289-8160 ",
+            " (49) 3289-8201",
+            "(49) 3289-8560"
+          ],
+          "email": "diclages@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.819699264575398",
+            "longitude": "-50.318986994378214"
+          }
+        }
+      ]
+    },
+    {
+      "name": "laguna",
+      "label": "laguna",
+      "delegacies": [
+        {
+          "name": "18ª – Delegacia Regional de Polícia – Laguna",
+          "address": "Laguna – SC – CEP: 88.790-000",
+          "phones": [
+            "(48) 3644-0089 ",
+            " 3644-0105 ",
+            " 3644-0463",
+            "(48) 3647-7781",
+            "(48) 3646-0469 ",
+            " 3646-1176",
+            "(48) 3644-0873"
+          ],
+          "email": "diclaguna@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "lajeado-grande",
+      "label": "lajeado-grande",
+      "delegacies": [
+        {
+          "name": "Lajeado Grande – Delegacia de Polícia do Município",
+          "address": "Lajeado Grande – SC – CEP: 89828-000",
+          "phones": [
+            "(49) 3382-2120"
+          ],
+          "email": "dplajeadogrande@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "laurentino",
+      "label": "laurentino",
+      "delegacies": [
+        {
+          "name": "Laurentino – Delegacia de Polícia do Município",
+          "address": "Laurentino – SC – CEP: 89170-000",
+          "phones": [
+            "(47) 3546-1240"
+          ],
+          "email": "dplaurentino@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2193231",
+            "longitude": "-49.7322856"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lauro-muller",
+      "label": "lauro-muller",
+      "delegacies": [
+        {
+          "name": "Lauro Müller – Delegacia de Polícia da Comarca",
+          "address": "Lauro Muller – SC – CEP: 88880-000",
+          "phones": [
+            "(48) 3403-7171, 3403-7167, 3403-7168."
+          ],
+          "email": "dplauromuller@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3942244",
+            "longitude": "-49.3975402"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lebon-regis",
+      "label": "lebon-regis",
+      "delegacies": [
+        {
+          "name": "Lebon Régis – Delegacia de Polícia da Comarca",
+          "address": "Lebon Régis – SC – CEP: 89515-000",
+          "phones": [
+            "(49) 3247-0080."
+          ],
+          "email": "dplebonregis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.927987",
+            "longitude": "-50.692109"
+          }
+        }
+      ]
+    },
+    {
+      "name": "leoberto-leal",
+      "label": "leoberto-leal",
+      "delegacies": [
+        {
+          "name": "Leoberto Leal – Delegacia de Polícia do Município",
+          "address": "Leoberto Leal – SC – CEP: 88445-000",
+          "phones": [
+            "(48) 3665-5855"
+          ],
+          "email": "dpleobertoleal@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.5071209",
+            "longitude": "-49.2871979"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lindoia-do-sul",
+      "label": "lindoia-do-sul",
+      "delegacies": [
+        {
+          "name": "Lindóia do Sul – Delegacia de Polícia do Município",
+          "address": "Lindóia do Sul – SC – CEP: 89735-000",
+          "phones": [
+            "(49) 3446-1201"
+          ],
+          "email": "dplindoiadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0520334",
+            "longitude": "-52.0831975"
+          }
+        }
+      ]
+    },
+    {
+      "name": "lontras",
+      "label": "lontras",
+      "delegacies": [
+        {
+          "name": "Lontras – Delegacia de Polícia do Município",
+          "address": "Lontras – SC – CEP: 89182-000",
+          "phones": [
+            "(47) 3523-0169"
+          ],
+          "email": "dplontras@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1679891",
+            "longitude": "-49.5424602"
+          }
+        }
+      ]
+    },
+    {
+      "name": "luiz-alves",
+      "label": "luiz-alves",
+      "delegacies": [
+        {
+          "name": "Luiz Alves – Delegacia de Polícia do Município",
+          "address": "Luiz Alves – SC – CEP: 89115-000",
+          "phones": [
+            "(47) 3378-8551"
+          ],
+          "email": "dpluizalves@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "luzerna",
+      "label": "luzerna",
+      "delegacies": [
+        {
+          "name": "Luzerna – Delegacia de Polícia do Município",
+          "address": "Luzerna – SC – CEP: 89609-000",
+          "phones": [
+            "(49) 3523-1414"
+          ],
+          "email": "dpluzerna@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1294338",
+            "longitude": "-51.4686169"
+          }
+        }
+      ]
+    },
+    {
+      "name": "macieira",
+      "label": "macieira",
+      "delegacies": [
+        {
+          "name": "Macieira – Delegacia de Polícia do Município",
+          "address": "Macieira – SC – CEP: 89518-000",
+          "phones": [
+            "(49) 3574-0051"
+          ],
+          "email": "dpmacieira@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "mafra",
+      "label": "mafra",
+      "delegacies": [
+        {
+          "name": "09ª – DELEGACIA REGIONAL DE POLÍCIA – MAFRA",
+          "address": "Mafra – SC – CEP: 89300-000",
+          "phones": [
+            "(47) 3642-0302",
+            "(47) 3642-0123",
+            "(47) 3642-0302 – Ramal 223",
+            "(47) 3642-0123"
+          ],
+          "email": "dpmafra@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "major-gercino",
+      "label": "major-gercino",
+      "delegacies": [
+        {
+          "name": "Major Gercino – Delegacia de Policia do Município",
+          "address": "Major Gercino – SC – CEP: 88260-000",
+          "phones": [
+            "(48) 3665-5587"
+          ],
+          "email": "dpmajorgercino@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "major-vieira",
+      "label": "major-vieira",
+      "delegacies": [
+        {
+          "name": "Major Vieira – Delegacia de Policia do Municipio",
+          "address": "Major Vieira – SC – CEP: 89480-000",
+          "phones": [
+            "(47) 3655-1343"
+          ],
+          "email": "dpmajorvieira@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "maracaja",
+      "label": "maracaja",
+      "delegacies": [
+        {
+          "name": "Maracajá – Delegacia de Policia do Município",
+          "address": "Maracajá – SC – CEP: 88915-000",
+          "phones": [
+            "(48) 3529-0122"
+          ],
+          "email": "dpmaracaja@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "maravilha",
+      "label": "maravilha",
+      "delegacies": [
+        {
+          "name": "31ª – DELEGACIA REGIONAL DE POLÍCIA – MARAVILHA",
+          "address": "Maravilha – SC – CEP: 89874-000",
+          "phones": [
+            "(49) 3664-6702",
+            "(49) 3664-6554"
+          ],
+          "email": "dpcamimaravilha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7623898",
+            "longitude": "-53.1747387"
+          }
+        }
+      ]
+    },
+    {
+      "name": "marema",
+      "label": "marema",
+      "delegacies": [
+        {
+          "name": "Marema – Delegacia de Polícia do Município",
+          "address": "Marema – SC – CEP: 89860-000",
+          "phones": [
+            "(49) 3382-2099"
+          ],
+          "email": "dpmarema@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "massaranduba",
+      "label": "massaranduba",
+      "delegacies": [
+        {
+          "name": "Massaranduba – Delegacia de Polícia do Município",
+          "address": "Massaranduba – SC – CEP: 89108-000",
+          "phones": [
+            "(47) 3276-9281"
+          ],
+          "email": "dpmassaranduba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.610868",
+            "longitude": "-49.005351"
+          }
+        }
+      ]
+    },
+    {
+      "name": "matos-costa",
+      "label": "matos-costa",
+      "delegacies": [
+        {
+          "name": "Matos Costa – Delegacia de Polícia do Município",
+          "address": "Matos Costa – SC – CEP: 89420-000",
+          "phones": [
+            "(49) 3572-1177"
+          ],
+          "email": "dpmatoscosta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "meleiro",
+      "label": "meleiro",
+      "delegacies": [
+        {
+          "name": "Meleiro – Delegacia de Polícia do Município",
+          "address": "Meleiro – SC – CEP: 88920-000",
+          "phones": [
+            "(48) 3529-0376"
+          ],
+          "email": "dpmeleiro@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.8303183",
+            "longitude": "-49.6349851"
+          }
+        }
+      ]
+    },
+    {
+      "name": "mirim-doce",
+      "label": "mirim-doce",
+      "delegacies": [
+        {
+          "name": "Mirim Doce – Delegacia de Polícia do Município",
+          "address": "Mirim Doce – SC – CEP: 89194-000",
+          "phones": [
+            "(47) 3562-8469"
+          ],
+          "email": "dpmirimdoce@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "modelo",
+      "label": "modelo",
+      "delegacies": [
+        {
+          "name": "Modelo – Delegacia de Polícia da Comarca",
+          "address": "Modelo – SC – CEP: 89872-000",
+          "phones": [
+            "(49) 3664-6708",
+            "6709"
+          ],
+          "email": "dpmodelo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "mondai",
+      "label": "mondai",
+      "delegacies": [
+        {
+          "name": "Mondaí – Delegacia de Polícia da Comarca",
+          "address": "Mondaí – SC – CEP: 89893-000",
+          "phones": [
+            "(49) 3674-0490 ",
+            " 3674-0422"
+          ],
+          "email": "dpmondai@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1020777",
+            "longitude": "-53.399242"
+          }
+        }
+      ]
+    },
+    {
+      "name": "monte-carlo",
+      "label": "monte-carlo",
+      "delegacies": [
+        {
+          "name": "Monte Carlo – Delegacia de Polícia do Município",
+          "address": "Monte Carlo – SC – CEP: 89618-000",
+          "phones": [
+            "(49) 3546-0215 ",
+            " 3546-0324"
+          ],
+          "email": "dpmontecarlo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "monte-castelo",
+      "label": "monte-castelo",
+      "delegacies": [
+        {
+          "name": "Monte Castelo – Delegacia de Polícia do Município",
+          "address": "Monte Castelo – SC – CEP: 89380-000",
+          "phones": [
+            "(47) 3647-0348"
+          ],
+          "email": "dpmontecastelo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.460989",
+            "longitude": "-50.232724"
+          }
+        }
+      ]
+    },
+    {
+      "name": "morro-da-fumaca",
+      "label": "morro-da-fumaca",
+      "delegacies": [
+        {
+          "name": "Morro da Fumaça – Delegacia de Polícia do Município",
+          "address": "Morro da Fumaça – SC – CEP: 88830-000",
+          "phones": [
+            "(48) 3403-1260"
+          ],
+          "email": "dpmorrodafumaca@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.6522275",
+            "longitude": "-49.2133979"
+          }
+        }
+      ]
+    },
+    {
+      "name": "morro-grande",
+      "label": "morro-grande",
+      "delegacies": [
+        {
+          "name": "Morro Grande – Delegacia de Polícia do Município",
+          "address": "Morro Grande – SC – CEP: 88925-000",
+          "phones": [
+            "(48) 3529-0212"
+          ],
+          "email": "dpmorrogrande@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "navegantes",
+      "label": "navegantes",
+      "delegacies": [
+        {
+          "name": "Navegantes – Delegacia de Polícia da Comarca",
+          "address": "Navegantes – SC – CEP: 88375-000",
+          "phones": [
+            "(47) 3398-6401"
+          ],
+          "email": "dpnavegantes@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "nova-erechim",
+      "label": "nova-erechim",
+      "delegacies": [
+        {
+          "name": "Nova Erechim – Delegacia de Polícia do Município",
+          "address": "Nova Erechim – SC – CEP: 89865-000",
+          "phones": [
+            "(49) 2049-7987"
+          ],
+          "email": "dpnovaerechim@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "nova-itaberaba",
+      "label": "nova-itaberaba",
+      "delegacies": [
+        {
+          "name": "Nova Itaberaba – Delegacia de Polícia do Município",
+          "address": "Nova Itaberaba – SC – CEP: 89818-000",
+          "phones": [
+            "(49) 2049-7593"
+          ],
+          "email": "dpnovaitaberaba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9406956",
+            "longitude": "-52.8132923"
+          }
+        }
+      ]
+    },
+    {
+      "name": "nova-trento",
+      "label": "nova-trento",
+      "delegacies": [
+        {
+          "name": "Nova Trento – Delegacia de Policia do Município",
+          "address": "Nova Trento – SC – CEP: 88270-000",
+          "phones": [
+            "(48) 3267-0190"
+          ],
+          "email": "dpnovatrento@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "nova-veneza",
+      "label": "nova-veneza",
+      "delegacies": [
+        {
+          "name": "Nova Veneza – Delegacia de Polícia do Município",
+          "address": "Nova Veneza – SC – CEP: 88865-000",
+          "phones": [
+            "(48) 3436-1109"
+          ],
+          "email": "dpnovaveneza@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "novo-horizonte",
+      "label": "novo-horizonte",
+      "delegacies": [
+        {
+          "name": "Novo Horizonte – Delegacia de Polícia de Fronteira do Município",
+          "address": "Novo Horizonte – SC – CEP: 89998-000",
+          "phones": [
+            "(49) 3372-1059"
+          ],
+          "email": "dpnovohorizonte@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "orleans",
+      "label": "orleans",
+      "delegacies": [
+        {
+          "name": "Orleans – Delegacia de Polícia da Comarca",
+          "address": "Orleans – SC – CEP: 88870-000",
+          "phones": [
+            "(48) 3631-9119 ",
+            " 3431-9118 ",
+            " 3631-9126 ",
+            " 3631-9116"
+          ],
+          "email": "dporleans@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3572698",
+            "longitude": "-49.2872434"
+          }
+        }
+      ]
+    },
+    {
+      "name": "otacilio-costa",
+      "label": "otacilio-costa",
+      "delegacies": [
+        {
+          "name": "Otacílio Costa – Delegacia de Polícia da Comarca",
+          "address": "Otacílio Costa – SC – CEP: 88540-000",
+          "phones": [
+            "(49) 3289-8314"
+          ],
+          "email": "dpotaciliocosta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4832304",
+            "longitude": "-50.1195204"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ouro",
+      "label": "ouro",
+      "delegacies": [
+        {
+          "name": "Ouro – Delegacia de Polícia do Município",
+          "address": "Ouro – SC – CEP: 89663-000",
+          "phones": [
+            "(49) 3555-1100"
+          ],
+          "email": "dpouro@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.3389051",
+            "longitude": "-51.6137785"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ouro-verde",
+      "label": "ouro-verde",
+      "delegacies": [
+        {
+          "name": "Ouro Verde – Delegacia de Polícia do Município",
+          "address": "Ouro Verde – SC – CEP: 89834-000",
+          "phones": [
+            "(49) 3447-0011"
+          ],
+          "email": "dpouroverde@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6941871",
+            "longitude": "-52.3103928"
+          }
+        }
+      ]
+    },
+    {
+      "name": "paial",
+      "label": "paial",
+      "delegacies": [
+        {
+          "name": "Paial – Delegacia de Polícia do Município",
+          "address": "Paial – SC – CEP: 89765-000",
+          "phones": [
+            "(49) 3451-0032"
+          ],
+          "email": "dppaial@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "painel",
+      "label": "painel",
+      "delegacies": [
+        {
+          "name": "Painel – Delegacia de Polícia do Município",
+          "address": "Painel – SC – CEP: 88543-000",
+          "phones": [
+            "(49) 3289-6498"
+          ],
+          "email": "dppainel@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.9214849",
+            "longitude": "-50.0994933"
+          }
+        }
+      ]
+    },
+    {
+      "name": "palhoca",
+      "label": "palhoca",
+      "delegacies": [
+        {
+          "name": "30ª – DELEGACIA REGIONAL DE POLÍCIA – PALHOÇA",
+          "address": "Palhoça – SC – CEP: 88130-971",
+          "phones": [
+            "(48) 3664-2711",
+            "(48) 3665-5841",
+            "(48) 3665 6504",
+            "(48) 3665-4074",
+            "(48) 3665-4691"
+          ],
+          "email": "subdppinheira@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "palma-sola",
+      "label": "palma-sola",
+      "delegacies": [
+        {
+          "name": "Palma Sola – Delegacia de Polícia do Município",
+          "address": "Palma Sola – SC – CEP: 89985-000",
+          "phones": [
+            "(49) 3652-0190"
+          ],
+          "email": "dppalmasola@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "palmeira",
+      "label": "palmeira",
+      "delegacies": [
+        {
+          "name": "Palmeira – Delegacia de Polícia do Município",
+          "address": "Palmeira – SC – CEP: 88545-000",
+          "phones": [
+            "(49) 3289-6366"
+          ],
+          "email": "dppalmeira@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.5797981",
+            "longitude": "-50.1589086"
+          }
+        }
+      ]
+    },
+    {
+      "name": "palmitos",
+      "label": "palmitos",
+      "delegacies": [
+        {
+          "name": "Palmitos – Delegacia de Polícia da Comarca",
+          "address": "Palmitos – SC – CEP: 89887-000",
+          "phones": [
+            "(49) 3462-4146"
+          ],
+          "email": "dppalmitos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0711023",
+            "longitude": "-53.1596594"
+          }
+        }
+      ]
+    },
+    {
+      "name": "papanduva",
+      "label": "papanduva",
+      "delegacies": [
+        {
+          "name": "Papanduva – Delegacia de Polícia da Comarca",
+          "address": "Papanduva – SC – CEP: 89370-000",
+          "phones": [
+            "(47) 3647-0445"
+          ],
+          "email": "dppapanduva@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.4085449",
+            "longitude": "-50.1424094"
+          }
+        }
+      ]
+    },
+    {
+      "name": "paraiso",
+      "label": "paraiso",
+      "delegacies": [
+        {
+          "name": "Paraíso – Delegacia de Polícia do Município",
+          "address": "Paraíso – SC – CEP: 89906-000",
+          "phones": [
+            "(49) 3631-2980"
+          ],
+          "email": "dpparaiso@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "passo-de-torres",
+      "label": "passo-de-torres",
+      "delegacies": [
+        {
+          "name": "Passo de Torres – Delegacia de Polícia do Município",
+          "address": "Passo de Torres – SC – CEP: 88980-000",
+          "phones": [
+            "(48) 3548-0044"
+          ],
+          "email": "dppassodetorres@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-29.325393",
+            "longitude": "-49.7218979"
+          }
+        }
+      ]
+    },
+    {
+      "name": "passos-maia",
+      "label": "passos-maia",
+      "delegacies": [
+        {
+          "name": "Passos Maia – Delegacia de Polícia do Município",
+          "address": "Passos Maia – SC – CEP: 89687-000",
+          "phones": [
+            "(49) 3382-2098"
+          ],
+          "email": "dppassosmaia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7806434",
+            "longitude": "-52.0611058"
+          }
+        }
+      ]
+    },
+    {
+      "name": "paulo-lopes",
+      "label": "paulo-lopes",
+      "delegacies": [
+        {
+          "name": "Paulo Lopes – Delegacia de Polícia do Município",
+          "address": "Paulo Lopes – SC – CEP: 88490-000",
+          "phones": [
+            "(48) 3253-0190"
+          ],
+          "email": "dppaulolopes@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "pedras-grandes",
+      "label": "pedras-grandes",
+      "delegacies": [
+        {
+          "name": "Pedras Grandes – Delegacia de Polícia do Município",
+          "address": "Pedras Grandes – SC – CEP: 88720-000",
+          "phones": [
+            "(48) 3631-9312"
+          ],
+          "email": "dppedrasgrandes@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "penha",
+      "label": "penha",
+      "delegacies": [
+        {
+          "name": "Penha – Delegacia de Polícia da Comarca",
+          "address": "Penha – SC – CEP: 88385-000",
+          "phones": [
+            "(47) 3345-0777"
+          ],
+          "email": "dppenha@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.775418",
+            "longitude": "-48.6465251"
+          }
+        }
+      ]
+    },
+    {
+      "name": "peritiba",
+      "label": "peritiba",
+      "delegacies": [
+        {
+          "name": "Peritiba – Delegacia de Polícia do Município",
+          "address": "Peritiba – SC – CEP: 89750-000",
+          "phones": [
+            "(49) 3482-6101"
+          ],
+          "email": "dpperitiba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "pescaria-brava",
+      "label": "pescaria-brava",
+      "delegacies": [
+        {
+          "name": "Pescaria Brava – Delegacia de Polícia do Município",
+          "address": "Pescaria Brava – SC – CEP: 88798-000",
+          "phones": [
+            "(48) 3647-7406 ",
+            " 3647-7407"
+          ],
+          "email": "dppescariabrava@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3845591",
+            "longitude": "-48.8658054"
+          }
+        }
+      ]
+    },
+    {
+      "name": "petrolandia",
+      "label": "petrolandia",
+      "delegacies": [
+        {
+          "name": "Petrolândia – Delegacia de Polícia do Município",
+          "address": "Petrolândia – SC – CEP: 88430-000",
+          "phones": [
+            "(47) 3533-8804 e"
+          ],
+          "email": "dppetrolandia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.5329615",
+            "longitude": "-49.6984597"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pinhalzinho",
+      "label": "pinhalzinho",
+      "delegacies": [
+        {
+          "name": "Pinhalzinho – Delegacia de Polícia da Comarca",
+          "address": "Pinhalzinho – SC – CEP: 89870-000",
+          "phones": [
+            "(49) 2049-9961"
+          ],
+          "email": "dppinhalzinho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.852586",
+            "longitude": "-52.9872478"
+          }
+        }
+      ]
+    },
+    {
+      "name": "pinheiro-preto",
+      "label": "pinheiro-preto",
+      "delegacies": [
+        {
+          "name": "Pinheiro Preto – Delegacia de Polícia do Município",
+          "address": "Pinheiro Preto – SC – CEP: 89570-000",
+          "phones": [
+            "(49) 3533-5683"
+          ],
+          "email": "dppinheiropreto@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0457296",
+            "longitude": "-51.2296306"
+          }
+        }
+      ]
+    },
+    {
+      "name": "piratuba",
+      "label": "piratuba",
+      "delegacies": [
+        {
+          "name": "Piratuba – Delegacia de Polícia do Município",
+          "address": "Piratuba – SC – CEP: 89667-000",
+          "phones": [
+            "(49) 3553-0149"
+          ],
+          "email": "dppiratuba@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4215816",
+            "longitude": "-51.7822762"
+          }
+        }
+      ]
+    },
+    {
+      "name": "planalto-alegre",
+      "label": "planalto-alegre",
+      "delegacies": [
+        {
+          "name": "Planalto Alegre – Delegacia de Polícia do Município",
+          "address": "Planalto Alegre – SC – CEP: 89882-200",
+          "phones": [
+            "(49) 2049-7614"
+          ],
+          "email": "dpplanaltoalto@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "pomerode",
+      "label": "pomerode",
+      "delegacies": [
+        {
+          "name": "Pomerode – Delegacia de Polícia da Comarca",
+          "address": "Pomerode – SC – CEP: 89107-000",
+          "phones": [
+            "(47) 3378-8181"
+          ],
+          "email": "dppomerode@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.72609595",
+            "longitude": "-49.17335272389504"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ponte-alta",
+      "label": "ponte-alta",
+      "delegacies": [
+        {
+          "name": "Ponte Alta – Delegacia de Polícia do Município",
+          "address": "Ponte Alta – SC – CEP: 88550-000",
+          "phones": [
+            "(49) 3289-6367"
+          ],
+          "email": "dppontealta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ponte-alta-do-norte",
+      "label": "ponte-alta-do-norte",
+      "delegacies": [
+        {
+          "name": "Ponte Alta do Norte – Delegacia de Polícia do Município",
+          "address": "Ponte Alta do Norte – SC – CEP: 89535-000",
+          "phones": [
+            "(49) 3254-1148"
+          ],
+          "email": "dppontealtadonorte@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "ponte-serrada",
+      "label": "ponte-serrada",
+      "delegacies": [
+        {
+          "name": "Ponte Serrada – Delegacia de Polícia da Comarca",
+          "address": "Ponte Serrada – SC – CEP: 89683-000",
+          "phones": [
+            "(49) 3382-2406"
+          ],
+          "email": "dpponteserrada@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "porto-belo",
+      "label": "porto-belo",
+      "delegacies": [
+        {
+          "name": "Porto Belo – Delegacia de Polícia da Comarca",
+          "address": "Porto Belo – SC – CEP: 88210-000",
+          "phones": [
+            "(47) 3398-6206"
+          ],
+          "email": "dpportobelo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "porto-uniao",
+      "label": "porto-uniao",
+      "delegacies": [
+        {
+          "name": "23ª – DELEGACIA REGIONAL DE POLÍCIA – PORTO UNIÃO",
+          "address": "Porto União – SC – CEP: 89400-000",
+          "phones": [
+            "(42) 3523 3821",
+            "(42) 3522-2546",
+            "(42) 3522-2546",
+            "(42) 3523-3821"
+          ],
+          "email": "dicportouniao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "pouso-redondo",
+      "label": "pouso-redondo",
+      "delegacies": [
+        {
+          "name": "Pouso Redondo – Delegacia de Polícia do Município",
+          "address": "Pouso Redondo – SC – CEP: 89172-000",
+          "phones": [
+            "(47) 3545-1201"
+          ],
+          "email": "dppousoredondo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2567443",
+            "longitude": "-49.9331593"
+          }
+        }
+      ]
+    },
+    {
+      "name": "praia-grande",
+      "label": "praia-grande",
+      "delegacies": [
+        {
+          "name": "Praia Grande – Delegacia de Polícia do Município",
+          "address": "Praia Grande – SC – CEP: 88990-000",
+          "phones": [
+            "(48) 3532-1147"
+          ],
+          "email": "dppraiagrande@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-29.1967451",
+            "longitude": "-49.9491133"
+          }
+        }
+      ]
+    },
+    {
+      "name": "presidente-castello-branco",
+      "label": "presidente-castello-branco",
+      "delegacies": [
+        {
+          "name": "Presidente Castelo Branco – Delegacia de Polícia do Município",
+          "address": "Presidente Castelo Branco – SC – CEP: 89745-000",
+          "phones": [
+            "(49) 3482-6127"
+          ],
+          "email": "dppresidentecastelobranco@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2217868",
+            "longitude": "-51.8089482"
+          }
+        }
+      ]
+    },
+    {
+      "name": "presidente-getulio",
+      "label": "presidente-getulio",
+      "delegacies": [
+        {
+          "name": "Presidente Getúlio – Delegacia de Polícia da Comarca",
+          "address": "Presidente Getúlio – SC – CEP: 89150-000",
+          "phones": [
+            "(47) 3352-1290"
+          ],
+          "email": "dppresidentegetulio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0426247",
+            "longitude": "-49.6210429"
+          }
+        }
+      ]
+    },
+    {
+      "name": "presidente-nereu",
+      "label": "presidente-nereu",
+      "delegacies": [
+        {
+          "name": "Presidente Nereu – Delegacia de Polícia do Município",
+          "address": "Presidente Nereu – SC – CEP: 89184-000",
+          "phones": [
+            "(47) 3357-8971"
+          ],
+          "email": "dppresidentenereu@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.278277",
+            "longitude": "-49.3890424"
+          }
+        }
+      ]
+    },
+    {
+      "name": "princesa",
+      "label": "princesa",
+      "delegacies": [
+        {
+          "name": "Princesa – Delegacia de Polícia do Município",
+          "address": "Princesa – SC – CEP: 89935-000",
+          "phones": [
+            "(49) 3641-0022"
+          ],
+          "email": "dpprincesa@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "quilombo",
+      "label": "quilombo",
+      "delegacies": [
+        {
+          "name": "Quilombo – Delegacia de Polícia de Fronteira da Comarca",
+          "address": "Quilombo – SC – CEP: 89850-000",
+          "phones": [
+            "(49) 3346-2460"
+          ],
+          "email": "dpquilombo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7253683",
+            "longitude": "-52.7193084"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rancho-queimado",
+      "label": "rancho-queimado",
+      "delegacies": [
+        {
+          "name": "Rancho Queimado – Delegacia de Polícia do Município",
+          "address": "Rancho Queimado – SC – CEP: 88470-000",
+          "phones": [
+            "(48) 3665-5858"
+          ],
+          "email": "dpranchoqueimado@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.6727911",
+            "longitude": "-49.0124197"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-das-antas",
+      "label": "rio-das-antas",
+      "delegacies": [
+        {
+          "name": "Rio das Antas – Delegacia de Polícia do Município",
+          "address": "Rio das Antas – SC – CEP: 89.550-000",
+          "phones": [
+            "(49) 3564-0120"
+          ],
+          "email": "dpriodasantas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-do-campo",
+      "label": "rio-do-campo",
+      "delegacies": [
+        {
+          "name": "Rio do Campo – Delegacia de Polícia da Comarca",
+          "address": "Rio do Campo – SC – CEP: 89198-000",
+          "phones": [
+            "(47) 3564-1153"
+          ],
+          "email": "dpriodocampo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-do-oeste",
+      "label": "rio-do-oeste",
+      "delegacies": [
+        {
+          "name": "Rio do Oeste – Delegacia de Polícia da Comarca",
+          "address": "Rio do Oeste – SC – CEP: 89180-000",
+          "phones": [
+            "(47)3543-0190 ",
+            " 3543-0669"
+          ],
+          "email": "dpriodooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.193267",
+            "longitude": "-49.7984595"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-do-sul",
+      "label": "rio-do-sul",
+      "delegacies": [
+        {
+          "name": "07ª – DELEGACIA REGIONAL DE POLÍCIA – RIO DO SUL",
+          "address": "Rio do Sul – SC – CEP: 89160-000",
+          "phones": [
+            "(47) 3531-6700",
+            "(47) 3531-6700",
+            "(47) 3531-6700",
+            "(47) 3531-6742",
+            "(47) 3531-6730"
+          ],
+          "email": "dpcamiriodosul@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "rio-dos-cedros",
+      "label": "rio-dos-cedros",
+      "delegacies": [
+        {
+          "name": "Rio dos Cedros – Delegacia de Polícia do Município",
+          "address": "Rio dos Cedros – SC – CEP: 89121-000",
+          "phones": [
+            "(47) 3399-3085"
+          ],
+          "email": "dpriodoscedros@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.739777",
+            "longitude": "-49.271828"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-fortuna",
+      "label": "rio-fortuna",
+      "delegacies": [
+        {
+          "name": "Rio Fortuna – Delegacia de Polícia do Município",
+          "address": "Rio Fortuna – SC – CEP: 88765-000",
+          "phones": [
+            "(48) 3651-1935"
+          ],
+          "email": "dpriofortuna@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-negrinho",
+      "label": "rio-negrinho",
+      "delegacies": [
+        {
+          "name": "Rio Negrinho – Delegacia de Polícia da Comarca",
+          "address": "Rio Negrinho – SC – CEP: 89295-000",
+          "phones": [
+            "(47) 3644-3722"
+          ],
+          "email": "dprionegrinho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.259075",
+            "longitude": "-49.517746"
+          }
+        }
+      ]
+    },
+    {
+      "name": "rio-rufino",
+      "label": "rio-rufino",
+      "delegacies": [
+        {
+          "name": "Rio Rufino – Delegacia de Polícia do Município",
+          "address": "Rio Rufino – SC – CEP: 88658-000",
+          "phones": [
+            "(49) 3233-8477"
+          ],
+          "email": "dpriorufino@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.861691",
+            "longitude": "-49.7806323"
+          }
+        }
+      ]
+    },
+    {
+      "name": "riqueza",
+      "label": "riqueza",
+      "delegacies": [
+        {
+          "name": "Riqueza – Delegacia de Polícia do Município",
+          "address": "Riqueza – SC – CEP: 89895-000",
+          "phones": [
+            "(49) 3675-0032"
+          ],
+          "email": "dpriqueza@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "rodeio",
+      "label": "rodeio",
+      "delegacies": [
+        {
+          "name": "Rodeio – Delegacia de Polícia do Município",
+          "address": "Rodeio – SC – CEP: 89136-000",
+          "phones": [
+            "47 3399-3073"
+          ],
+          "email": "dprodeio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9233304",
+            "longitude": "-49.3685354"
+          }
+        }
+      ]
+    },
+    {
+      "name": "romelandia",
+      "label": "romelandia",
+      "delegacies": [
+        {
+          "name": "Romelândia – Delegacia de Polícia do Município",
+          "address": "Romelândia – SC – CEP: 89908-000",
+          "phones": [
+            "(49) 3664-6608"
+          ],
+          "email": "dpromelandia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6783317",
+            "longitude": "-53.3189986"
+          }
+        }
+      ]
+    },
+    {
+      "name": "salete",
+      "label": "salete",
+      "delegacies": [
+        {
+          "name": "Salete – Delegacia de Polícia do Município",
+          "address": "Salete – SC – CEP: 89196-000",
+          "phones": [
+            "(47) 3563-0190"
+          ],
+          "email": "dpsalete@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9841891",
+            "longitude": "-50.0076205"
+          }
+        }
+      ]
+    },
+    {
+      "name": "saltinho",
+      "label": "saltinho",
+      "delegacies": [
+        {
+          "name": "Saltinho – Delegacia de Polícia de Fronteira do Município",
+          "address": "Saltinho – SC – CEP: 89981-000",
+          "phones": [
+            "(49) 3664 6586"
+          ],
+          "email": "dpsaltinho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.604932",
+            "longitude": "-53.057763"
+          }
+        }
+      ]
+    },
+    {
+      "name": "salto-veloso",
+      "label": "salto-veloso",
+      "delegacies": [
+        {
+          "name": "Salto Veloso – Delegacia de Polícia do Município",
+          "address": "Salto Veloso – SC – CEP: 89595-000",
+          "phones": [
+            "(49) 3536-0274 ",
+            " (49) 3533-5471"
+          ],
+          "email": "dpsaltoveloso@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sangao",
+      "label": "sangao",
+      "delegacies": [
+        {
+          "name": "Sangão – Delegacia de Polícia do Município",
+          "address": "Sangão – SC – CEP: 88717-000",
+          "phones": [
+            "(48) 3631-9240"
+          ],
+          "email": "dpsangao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.6397512",
+            "longitude": "-49.1266106"
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-cecilia",
+      "label": "santa-cecilia",
+      "delegacies": [
+        {
+          "name": "Santa Cecília – Delegacia de Polícia da Comarca",
+          "address": "Santa Cecília – SC – CEP: 89540-000",
+          "phones": [
+            "(49) 3244-2046 ",
+            " 3244-2755"
+          ],
+          "email": "dpsantacecilia@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9658952",
+            "longitude": "-50.4182571"
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-helena",
+      "label": "santa-helena",
+      "delegacies": [
+        {
+          "name": "Santa Helena – Delegacia de Polícia do Município",
+          "address": "Santa Helena – SC – CEP: 89915-000",
+          "phones": [
+            "(49) 3633-0181"
+          ],
+          "email": "dpsantahelena@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9388476",
+            "longitude": "-53.6194274"
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-rosa-de-lima",
+      "label": "santa-rosa-de-lima",
+      "delegacies": [
+        {
+          "name": "Santa Rosa de Lima – Delegacia de Polícia do Município",
+          "address": "Santa Rosa de Lima – SC – CEP: 88763-000",
+          "phones": [
+            "(48) 3651-1879"
+          ],
+          "email": "dpsantarosadelima@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.0404239",
+            "longitude": "-49.1280356"
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-rosa-do-sul",
+      "label": "santa-rosa-do-sul",
+      "delegacies": [
+        {
+          "name": "Santa Rosa do Sul – Delegacia de Polícia da Comarca",
+          "address": "Santa Rosa do Sul – SC – CEP: 88965-000",
+          "phones": [
+            "(48) 3534-1122"
+          ],
+          "email": "dpsantarosadosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "santa-terezinha",
+      "label": "santa-terezinha",
+      "delegacies": [
+        {
+          "name": "Santa Terezinha – Delegacia de Policia do Município",
+          "address": "Santa Terezinha – SC – CEP: 89199000",
+          "phones": [
+            "(47)3556-0066"
+          ],
+          "email": "dpsantaterezinha@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "santa-terezinha-do-progresso",
+      "label": "santa-terezinha-do-progresso",
+      "delegacies": [
+        {
+          "name": "Santa Terezinha do Progresso – Delegacia de Polícia de Fronteira do Município",
+          "address": "Santa Terezinha do Progresso – SC – CEP: 89983-000",
+          "phones": [
+            "(49) 3664-6686"
+          ],
+          "email": "dpsantaterezinhadoprogresso@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "santiago-do-sul",
+      "label": "santiago-do-sul",
+      "delegacies": [
+        {
+          "name": "Santiago do Sul – Delegacia de Polícia de Fronteira do Município",
+          "address": "Santiago do Sul – SC – CEP: 89854-000",
+          "phones": [
+            "(49) 3345-0532"
+          ],
+          "email": "dpsantiagodosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "santo-amaro-da-imperatriz",
+      "label": "santo-amaro-da-imperatriz",
+      "delegacies": [
+        {
+          "name": "Santo Amaro da Imperatriz – Delegacia de Polícia da Comarca",
+          "address": "Santo Amaro da Imperatriz – SC – CEP: 88140-000",
+          "phones": [
+            "(48) 3665-7606"
+          ],
+          "email": "dpsantoamarodaimperatriz@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-bento-do-sul",
+      "label": "sao-bento-do-sul",
+      "delegacies": [
+        {
+          "name": "21ª – DELEGACIA REGIONAL DE POLÍCIA – SÃO BENTO DO SUL",
+          "address": "São Bento do Sul – SC – CEP: 89280-499",
+          "phones": [
+            "(47) 3647-0146",
+            "(47)3647-0146",
+            "(47) 3647-0146",
+            "(47) 3647-0146"
+          ],
+          "email": "dicsaobentodosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.24997649187074",
+            "longitude": "-49.373674326571866"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-bernardino",
+      "label": "sao-bernardino",
+      "delegacies": [
+        {
+          "name": "São Bernardino – Delegacia de Polícia de Fronteira do Município",
+          "address": "São Bernardino – SC – CEP: 89982-000",
+          "phones": [
+            "(49) 3372-1063"
+          ],
+          "email": "dpsaobernardino@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-bonifacio",
+      "label": "sao-bonifacio",
+      "delegacies": [
+        {
+          "name": "São Bonifácio – Delegacia de Polícia do Município",
+          "address": "São Bonifácio – SC – CEP: 88485-000",
+          "phones": [
+            "(48) 3665-5836"
+          ],
+          "email": "dpsaobonifacio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-carlos",
+      "label": "sao-carlos",
+      "delegacies": [
+        {
+          "name": "São Carlos – Delegacia de Polícia da Comarca",
+          "address": "São Carlos – SC – CEP: 89885-000",
+          "phones": [
+            "(49) 3325-4190 ",
+            " 3325-4931"
+          ],
+          "email": "dpsaocarlos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.081863",
+            "longitude": "-53.0051018"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-cristovao-do-sul",
+      "label": "sao-cristovao-do-sul",
+      "delegacies": [
+        {
+          "name": "São Cristóvão do Sul – Delegacia de Polícia do Município",
+          "address": "São Cristóvão do Sul – SC – CEP: 89533-000",
+          "phones": [
+            "(49) 3253-1750"
+          ],
+          "email": "dpsaocristovao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.2670093",
+            "longitude": "-50.4409508"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-domingos",
+      "label": "sao-domingos",
+      "delegacies": [
+        {
+          "name": "São Domingos – Delegacia de Polícia de Fronteira da Comarca",
+          "address": "São Domingos – SC – CEP: 89835-000",
+          "phones": [
+            "(49) 3443-0119 ",
+            " 3443-0371"
+          ],
+          "email": "dpsaodomingos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.5593237",
+            "longitude": "-52.5311718"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-francisco-do-sul",
+      "label": "sao-francisco-do-sul",
+      "delegacies": [
+        {
+          "name": "São Francisco do Sul – Delegacia de Polícia da Comarca",
+          "address": "São Francisco do Sul – SC – CEP: 89240-000",
+          "phones": [
+            "(47) 3444-2190 ",
+            " 3444-2259"
+          ],
+          "email": "dpsaofrancisco@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-joao-batista",
+      "label": "sao-joao-batista",
+      "delegacies": [
+        {
+          "name": "São João Batista – Delegacia de Policia da Comarca",
+          "address": "São João Batista – SC – CEP: 88240-000",
+          "phones": [
+            "(48) 3265-0505 ",
+            " 3265-0533"
+          ],
+          "email": "dpsaojoaobatista@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-joao-do-itaperiu",
+      "label": "sao-joao-do-itaperiu",
+      "delegacies": [
+        {
+          "name": "São João de Itaperiú – Delegacia de Polícia do Município",
+          "address": "São João do Itaperiú – SC – CEP: 88395-000",
+          "phones": [
+            "(47) 3461 -1558"
+          ],
+          "email": "dpsaojoaodoitaperiu@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6186415",
+            "longitude": "-48.7670219"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-joao-do-oeste",
+      "label": "sao-joao-do-oeste",
+      "delegacies": [
+        {
+          "name": "São João do Oeste – Delegacia de Polícia do Município",
+          "address": "São João do Oeste – SC – CEP: 89897-000",
+          "phones": [
+            "(49) 3636-1258"
+          ],
+          "email": "dpsaojoaodooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0981223",
+            "longitude": "-53.5931508"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-joao-do-sul",
+      "label": "sao-joao-do-sul",
+      "delegacies": [
+        {
+          "name": "São João do Sul – Delegacia de Polícia do Município",
+          "address": "São João do Sul – SC – CEP: 88970-000",
+          "phones": [
+            "(48) 3539-0114"
+          ],
+          "email": "dpsaojoaodosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-29.2246601",
+            "longitude": "-49.8081785"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-joaquim",
+      "label": "sao-joaquim",
+      "delegacies": [
+        {
+          "name": "27ª – DELEGACIA REGIONAL DE POLÍCIA – SÃO JOAQUIM",
+          "address": "São Joaquim – SC – CEP: 88600-000",
+          "phones": [
+            "(49) 3233-8510",
+            "(49) 3233-8530",
+            "(49) 3233-8523",
+            "(49) 3233-8533"
+          ],
+          "email": "dicsaojoaquim@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.2924972",
+            "longitude": "-49.9353255"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-jose",
+      "label": "sao-jose",
+      "delegacies": [
+        {
+          "name": "01ª – DELEGACIA REGIONAL DE POLÍCIA – SÃO JOSÉ",
+          "address": "São José – SC – CEP: 88101-090",
+          "phones": [
+            "(48) 3665-4799 ou 3241-1299",
+            "(48) 3665-9500",
+            "(48) 3665-9584",
+            "(48) 3665-5832 ",
+            " 3665-5889",
+            "(48) 3665-6473",
+            "(48) 3665 6651 ",
+            " 3665 5826",
+            "(48) 3665-6471",
+            "(48) 3665-5895  ",
+            " 3665-5891"
+          ],
+          "email": "dicsaojose@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.596174504004463",
+            "longitude": "-48.61329740423284"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-jose-do-cedro",
+      "label": "sao-jose-do-cedro",
+      "delegacies": [
+        {
+          "name": "São José do Cedro – Delegacia de Polícia da Comarca",
+          "address": "São José do Cedro – SC – CEP: 89930-000",
+          "phones": [
+            "(49) 3643-0687 ",
+            " 3643-0212"
+          ],
+          "email": "dpsaojosedocedro@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.4555904",
+            "longitude": "-53.4954785"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-jose-do-cerrito",
+      "label": "sao-jose-do-cerrito",
+      "delegacies": [
+        {
+          "name": "São José do Cerrito – Delegacia de Polícia do Município",
+          "address": "São José do Cerrito – SC – CEP: 88570-000",
+          "phones": [
+            "(49) 3289-6264"
+          ],
+          "email": "dpsaojosedocerrito@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.6627041",
+            "longitude": "-50.5791762"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-lourenco-do-oeste",
+      "label": "sao-lourenco-do-oeste",
+      "delegacies": [
+        {
+          "name": "28ª – DELEGACIA REGIONAL DE POLÍCIA DE FRONTEIRA – SÃO LOURENÇO DO OESTE",
+          "address": "São Lourenço do Oeste – SC – CEP: 89990-000",
+          "phones": [
+            "(49) 3344-1935 ",
+            " 3344-1136",
+            "(49) 3344-1308 ",
+            " 3344-3737",
+            "(49) 3372-1111",
+            "(49) 3372-1060"
+          ],
+          "email": "dpcamisaolourencodooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.35566",
+            "longitude": "-52.849837"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-ludgero",
+      "label": "sao-ludgero",
+      "delegacies": [
+        {
+          "name": "São Ludgero – Delegacia de Polícia do Município",
+          "address": "São Ludgero – SC – CEP: 88730-000",
+          "phones": [
+            "(48)3651-1824"
+          ],
+          "email": "dpsaoludgero@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.3243832",
+            "longitude": "-49.174819"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-martinho",
+      "label": "sao-martinho",
+      "delegacies": [
+        {
+          "name": "São Martinho – Delegacia de Polícia do Município",
+          "address": "São Martinho – SC – CEP: 88765-000",
+          "phones": [
+            "(48) 3651-1862"
+          ],
+          "email": "dpsaomartinho@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-miguel-da-boa-vista",
+      "label": "sao-miguel-da-boa-vista",
+      "delegacies": [
+        {
+          "name": "São Miguel da Boa Vista – Delegacia de Polícia do Município",
+          "address": "São Miguel da Boa Vista – SC – CEP: 89876-000",
+          "phones": [
+            "(49) 3664-6617"
+          ],
+          "email": "dpsaomigueldaboavista@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "sao-miguel-do-oeste",
+      "label": "sao-miguel-do-oeste",
+      "delegacies": [
+        {
+          "name": "13ª – DELEGACIA REGIONAL DE POLÍCIA – SÃO MIGUEL DO OESTE",
+          "address": "São Miguel do Oeste – SC – CEP: 89900-000",
+          "phones": [
+            "(49) 3622-6081 ",
+            " 3622-6494 ",
+            " 3622-6031 ",
+            " 3622-6040",
+            "(49) 3622-0190 ",
+            " 3621-1306",
+            "(49) 3622-6546",
+            "(49) 3622-4213"
+          ],
+          "email": "dicsaomigueldooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7278977",
+            "longitude": "-53.5176689"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sao-pedro-de-alcantara",
+      "label": "sao-pedro-de-alcantara",
+      "delegacies": [
+        {
+          "name": "São Pedro Alcântara – Delegacia de Polícia do Município",
+          "address": "São Pedro Alcântara – SC – CEP: 88125-000",
+          "phones": [
+            "(48) 3665-5843"
+          ],
+          "email": "dpsaopedroalcantara@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.5676985",
+            "longitude": "-48.8047973"
+          }
+        }
+      ]
+    },
+    {
+      "name": "saudades",
+      "label": "saudades",
+      "delegacies": [
+        {
+          "name": "Saudades – Delegacia de Polícia do Município",
+          "address": "Saudades – SC – CEP: 89868-000",
+          "phones": [
+            "(49) 2049-7985"
+          ],
+          "email": "dpsaudades@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9261779",
+            "longitude": "-53.0046945"
+          }
+        }
+      ]
+    },
+    {
+      "name": "schroeder",
+      "label": "schroeder",
+      "delegacies": [
+        {
+          "name": "Schroeder – Delegacia de Polícia do Município",
+          "address": "Schroeder – SC – CEP: 89275-000",
+          "phones": [
+            "(47) 3276-9327"
+          ],
+          "email": "dpschroeder@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "seara",
+      "label": "seara",
+      "delegacies": [
+        {
+          "name": "Seara – Delegacia de Polícia da Comarca",
+          "address": "Seara – SC – CEP: 89770-000",
+          "phones": [
+            "(49) 3452-2120"
+          ],
+          "email": "dpseara@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "serra-alta",
+      "label": "serra-alta",
+      "delegacies": [
+        {
+          "name": "Serra Alta – Delegacia de Polícia do Município",
+          "address": "Serra Alta – SC – CEP: 89871-000",
+          "phones": [
+            "(49) 2049-9969"
+          ],
+          "email": "dpserraalta@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "sideropolis",
+      "label": "sideropolis",
+      "delegacies": [
+        {
+          "name": "Siderópolis – Delegacia de Polícia do Município",
+          "address": "Siderópolis – SC – CEP: 88860-000",
+          "phones": [
+            "(48) 3435-3190"
+          ],
+          "email": "dpsideropolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.597588",
+            "longitude": "-49.4250007"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sombrio",
+      "label": "sombrio",
+      "delegacies": [
+        {
+          "name": "Sombrio – Delegacia de Polícia da Comarca",
+          "address": "Sombrio – SC – CEP: 88960-000",
+          "phones": [
+            "(48) 3533-0196"
+          ],
+          "email": "dpsombrio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-29.107985",
+            "longitude": "-49.632776"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sul-brasil",
+      "label": "sul-brasil",
+      "delegacies": [
+        {
+          "name": "Sul Brasil – Delegacia de Polícia do Município",
+          "address": "Sul Brasil – SC – CEP: 89855-000",
+          "phones": [
+            "(49) 2049-9968"
+          ],
+          "email": "dpsulbrasil@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7379101",
+            "longitude": "-52.9650177"
+          }
+        }
+      ]
+    },
+    {
+      "name": "taio",
+      "label": "taio",
+      "delegacies": [
+        {
+          "name": "Taió – Delegacia de Polícia da Comarca",
+          "address": "Taió – SC – CEP: 89190-000",
+          "phones": [
+            "(47) 3562-0340"
+          ],
+          "email": "dptaio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.1167574",
+            "longitude": "-50.0002159"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tangara",
+      "label": "tangara",
+      "delegacies": [
+        {
+          "name": "Tangará – Delegacia de Polícia da Comarca",
+          "address": "Tangará – SC – CEP: 89642-000",
+          "phones": [
+            "(49) 3532-7497 e (49) 3532-7498."
+          ],
+          "email": "dptangara@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.0997957",
+            "longitude": "-51.2477143"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tigrinhos",
+      "label": "tigrinhos",
+      "delegacies": [
+        {
+          "name": "Tigrinhos – Delegacia de Polícia do Município",
+          "address": "Tigrinhos – SC – CEP: 89875-000",
+          "phones": [
+            "(49) 3664-6607"
+          ],
+          "email": "dptigrinhos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6869135",
+            "longitude": "-53.1570085"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tijucas",
+      "label": "tijucas",
+      "delegacies": [
+        {
+          "name": "Tijucas – Delegacia de Polícia da Comarca",
+          "address": "Tijucas – SC – CEP: 88200-000",
+          "phones": [
+            "(48) 3665-6560"
+          ],
+          "email": "dptijucas@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.239404",
+            "longitude": "-48.6353696"
+          }
+        }
+      ]
+    },
+    {
+      "name": "timbe-do-sul",
+      "label": "timbe-do-sul",
+      "delegacies": [
+        {
+          "name": "Timbé do Sul – Delegacia de Policia do Município",
+          "address": "Timbé do Sul – SC – CEP: 88940-000",
+          "phones": [
+            "(48) 3529-0300"
+          ],
+          "email": "dptimbedosul@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.8317599",
+            "longitude": "-49.846643"
+          }
+        }
+      ]
+    },
+    {
+      "name": "timbo",
+      "label": "timbo",
+      "delegacies": [
+        {
+          "name": "Timbó – Delegacia de Polícia da Comarca",
+          "address": "Timbó – SC – CEP: 89120-000",
+          "phones": [
+            "(47) 3382-0092"
+          ],
+          "email": "dptimbo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.8282737",
+            "longitude": "-49.270641"
+          }
+        }
+      ]
+    },
+    {
+      "name": "timbo-grande",
+      "label": "timbo-grande",
+      "delegacies": [
+        {
+          "name": "Timbó Grande – Delegacia de Polícia do Município",
+          "address": "Timbó Grande – SC – CEP: 89545-000",
+          "phones": [
+            "(49) 3252-1112"
+          ],
+          "email": "dptimbogrande@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.6170507",
+            "longitude": "-50.6742579"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tres-barras",
+      "label": "tres-barras",
+      "delegacies": [
+        {
+          "name": "Três Barras – Delegacia de Polícia do Município",
+          "address": "Três Barras – SC – CEP: 89490-000",
+          "phones": [
+            "(47) 3623-0131 ",
+            " 3623-0627"
+          ],
+          "email": "dptresbarras@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.105632",
+            "longitude": "-50.319692"
+          }
+        }
+      ]
+    },
+    {
+      "name": "treviso",
+      "label": "treviso",
+      "delegacies": [
+        {
+          "name": "Treviso – Delegacia de Polícia do Município",
+          "address": "Treviso – SC – CEP: 88862-000",
+          "phones": [
+            "(48) 3403-7163, 3403-7165."
+          ],
+          "email": "dptreviso@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.5153879",
+            "longitude": "-49.4582122"
+          }
+        }
+      ]
+    },
+    {
+      "name": "treze-de-maio",
+      "label": "treze-de-maio",
+      "delegacies": [
+        {
+          "name": "Treze de Maio – Delegacia de Políciado Município",
+          "address": "Treze de Maio – SC – CEP: 88710-000",
+          "phones": [
+            "(48) 3631-9235"
+          ],
+          "email": "dptrezedemaio@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.5574415",
+            "longitude": "-49.1447586"
+          }
+        }
+      ]
+    },
+    {
+      "name": "treze-tilias",
+      "label": "treze-tilias",
+      "delegacies": [
+        {
+          "name": "Treze Tílias – Delegacia de Polícia do Município",
+          "address": "Treze Tilias – SC – CEP: 89650-000",
+          "phones": [
+            "(49) 3537-0129"
+          ],
+          "email": "dptrezetilias@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9996788",
+            "longitude": "-51.4073067"
+          }
+        }
+      ]
+    },
+    {
+      "name": "trombudo-central",
+      "label": "trombudo-central",
+      "delegacies": [
+        {
+          "name": "Trombudo Central – Delegacia de Polícia da Comarca",
+          "address": "Trombudo Central – SC – CEP: 89176-000",
+          "phones": [
+            "(47) 3544-0389"
+          ],
+          "email": "dptrombudocentral@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "tubarao",
+      "label": "tubarao",
+      "delegacies": [
+        {
+          "name": "05ª – DELEGACIA REGIONAL DE POLÍCIA – TUBARÃO",
+          "address": "Tubarão – SC – CEP: 88701-302",
+          "phones": [
+            "(48) 3631-9930",
+            "(48) 3631-9900",
+            "(48) 3631-9970",
+            "(48) 3631-9950",
+            "(48) 3631-9943"
+          ],
+          "email": "dptubarao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.48739758158147",
+            "longitude": "-49.014226064698306"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tunapolis",
+      "label": "tunapolis",
+      "delegacies": [
+        {
+          "name": "Tunápolis – Delegacia de Polícia do Município",
+          "address": "Tunápolis – SC – CEP: 89898-000",
+          "phones": [
+            "(49) 3632-1170"
+          ],
+          "email": "dptunapolis@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.97073",
+            "longitude": "-53.6382084"
+          }
+        }
+      ]
+    },
+    {
+      "name": "turvo",
+      "label": "turvo",
+      "delegacies": [
+        {
+          "name": "Turvo – Delegacia de Policia da Comarca",
+          "address": "Turvo – SC – CEP: 88930-000",
+          "phones": [
+            "(48) 3525 0173"
+          ],
+          "email": "dpturvo@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.9277445",
+            "longitude": "-49.6792206"
+          }
+        }
+      ]
+    },
+    {
+      "name": "uniao-do-oeste",
+      "label": "uniao-do-oeste",
+      "delegacies": [
+        {
+          "name": "União do Oeste – Delegacia de Polícia do Município",
+          "address": "União do Oeste – SC – CEP: 89845-000",
+          "phones": [
+            "(49) 3348-1190"
+          ],
+          "email": "dpuniaodooeste@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.7642155",
+            "longitude": "-52.8515985"
+          }
+        }
+      ]
+    },
+    {
+      "name": "urubici",
+      "label": "urubici",
+      "delegacies": [
+        {
+          "name": "Urubici – Delegacia de Polícia da Comarca",
+          "address": "Urubici – SC – CEP: 88650-000",
+          "phones": [
+            "(49) 3278-4188 ",
+            " 3278-4511"
+          ],
+          "email": "dpurubici@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.015663",
+            "longitude": "-49.592547"
+          }
+        }
+      ]
+    },
+    {
+      "name": "urupema",
+      "label": "urupema",
+      "delegacies": [
+        {
+          "name": "Urupema – Delegacia de Polícia do Município",
+          "address": "Urupema – SC – CEP: 88625-000",
+          "phones": [
+            "(49) 3233-8383"
+          ],
+          "email": "dpurupema@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.9557716",
+            "longitude": "-49.875957"
+          }
+        }
+      ]
+    },
+    {
+      "name": "urussanga",
+      "label": "urussanga",
+      "delegacies": [
+        {
+          "name": "Urussanga – Delegacia de Polícia da Comarca",
+          "address": "Urussanga – SC – CEP: 88840-000",
+          "phones": [
+            "(48) (48) 3403-7134  e  (48) 3403-7135. (Secretaria)"
+          ],
+          "email": "dpurussanga@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-28.5191381",
+            "longitude": "-49.3201776"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vargeao",
+      "label": "vargeao",
+      "delegacies": [
+        {
+          "name": "Vargeão – Delegacia de Polícia do Município",
+          "address": "Vargeão – SC – CEP: 89690-000",
+          "phones": [
+            "(49) 3382-2106"
+          ],
+          "email": "dpvargeao@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "vargem",
+      "label": "vargem",
+      "delegacies": [
+        {
+          "name": "Vargem – Delegacia de Polícia do Município",
+          "address": "Vargem – SC – CEP: 89638-000",
+          "phones": [
+            "(49) 3541-3353"
+          ],
+          "email": "dpvargem@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4909659",
+            "longitude": "-50.9781096"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vargem-bonita",
+      "label": "vargem-bonita",
+      "delegacies": [
+        {
+          "name": "Vargem Bonita – Delegacia de Polícia do Município",
+          "address": "Vargem Bonita – SC – CEP: 89675-000",
+          "phones": [
+            "(49) 3548-0108"
+          ],
+          "email": "dpvargembonita@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "vidal-ramos",
+      "label": "vidal-ramos",
+      "delegacies": [
+        {
+          "name": "Vidal Ramos – Delegacia de Polícia do Município",
+          "address": "Vidal Ramos – SC – CEP: 88443-000",
+          "phones": [
+            "(47) 3533-8788"
+          ],
+          "email": "dpvidalramos@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.3908814",
+            "longitude": "-49.3615664"
+          }
+        }
+      ]
+    },
+    {
+      "name": "videira",
+      "label": "videira",
+      "delegacies": [
+        {
+          "name": "25ª – DELEGACIA REGIONAL DE POLÍCIA – VIDEIRA",
+          "address": "Centro – Videira – SC – CEP: 89560-000",
+          "phones": [
+            "(49) 3533-4231",
+            "(49) 3566-0259 ",
+            " 3566-0258 ",
+            " 3533-5319",
+            "(49) 3533-4220",
+            "(49) 3533-4203 ",
+            " (49) 3533-4226"
+          ],
+          "email": "dicvideira@pc.sc.gov.br",
+          "coordinates": null
+        }
+      ]
+    },
+    {
+      "name": "vitor-meireles",
+      "label": "vitor-meireles",
+      "delegacies": [
+        {
+          "name": "Vitor Meirelles – Delegacia de Polícia do Município",
+          "address": "Vitor Meirelles – SC – CEP: 89148-000",
+          "phones": [
+            "(47) 3258-0239"
+          ],
+          "email": "dpvitormeirelles@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "witmarsum",
+      "label": "witmarsum",
+      "delegacies": [
+        {
+          "name": "Witmarsum – Delegacia de Polícia do Município",
+          "address": "Witmarsum – SC – CEP: 89157-000",
+          "phones": [
+            "(47) 3357-8998"
+          ],
+          "email": "dpwitmarsum@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.927487",
+            "longitude": "-49.794675"
+          }
+        }
+      ]
+    },
+    {
+      "name": "xanxere",
+      "label": "xanxere",
+      "delegacies": [
+        {
+          "name": "16ª - Delegacia Regional de Polícia - Xanxerê",
+          "address": "Xanxerê - SC - CEP: 89820-000",
+          "phones": [
+            "(49) 3382-2041",
+            "(49) 3382-2042 - (49) 3382-2043",
+            "(49) 3382-2044",
+            "(49) 3433-0441 ",
+            " 3433-0579"
+          ],
+          "email": "dicxanxere@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "xavantina",
+      "label": "xavantina",
+      "delegacies": [
+        {
+          "name": "Xavantina – Delegacia de Polícia do Município",
+          "address": "Xavantina – SC – CEP: 89780-000",
+          "phones": [
+            "(49) 3452-8900"
+          ],
+          "email": "dpxavantina@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": null,
+            "longitude": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "xaxim",
+      "label": "xaxim",
+      "delegacies": [
+        {
+          "name": "Xaxim – Delegacia de Polícia da Comarca",
+          "address": "Xaxim – SC – CEP: 89825-000",
+          "phones": [
+            "(49) 3382-2319"
+          ],
+          "email": "dpxaxim@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-26.9605363",
+            "longitude": "-52.5335505"
+          }
+        }
+      ]
+    },
+    {
+      "name": "zortea",
+      "label": "zortea",
+      "delegacies": [
+        {
+          "name": "Zortéa – Delegacia de Polícia do Município",
+          "address": "Zortéa – SC – CEP: 89633-000",
+          "phones": [
+            "(49) 3541-3373"
+          ],
+          "email": "dpzortea@pc.sc.gov.br",
+          "coordinates": {
+            "latitude": "-27.4535362",
+            "longitude": "-51.55359"
+          }
+        }
+      ]
+    }
+  ]
+}
